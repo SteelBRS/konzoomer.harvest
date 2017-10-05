@@ -1,0 +1,14 @@
+Processing: GeoCodingEniro-Netto.zip
+Unzipping: GeoCodingEniro-Netto.xml
+-!- multiple stores at same address. Store.id=226010, Store.chainID=6
+-!- multiple stores at same address. Store.id=340001, Store.chainID=10
+
+-!- multiple stores at same address. Store.id=193012, Store.chainID=2
+-!- multiple stores at same address. Store.id=356002, Store.chainID=10
+
+-!- multiple stores at same address. Store.id=221003, Store.chainID=4
+-!- multiple stores at same address. Store.id=399001, Store.chainID=10
+
+Locations: 411
+Updated Stores: 414
+

@@ -1,0 +1,355 @@
+Message Number: 1, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.673
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 2, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 3, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.713
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 4, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.743
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 5, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.763
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 6, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.783
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 7, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.803
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 8, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.823
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 9, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.853
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 10, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.873
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 11, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:21.893
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 12, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.323
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 13, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.343
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 14, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.363
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 15, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.393
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 16, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.413
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 17, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.433
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 18, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.453
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 19, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.473
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 20, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.503
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 21, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.523
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 22, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.543
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 23, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.563
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 24, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.583
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 25, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:23.613
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 26, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.313
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 27, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.473
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 28, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.493
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 29, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.643
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 30, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.793
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 31, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.813
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 32, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.833
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 33, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.863
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 34, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.883
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 35, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.903
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 36, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.923
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 37, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:25.953
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 38, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.003
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 39, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.023
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 40, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.173
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 41, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.203
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 42, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.223
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 43, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.373
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 44, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.393
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 45, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.413
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 46, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.433
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 47, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.453
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 48, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.473
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 49, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.623
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 50, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.643
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 51, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.663
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 52, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 53, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.713
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 54, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.733
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 55, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.753
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 56, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.773
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 57, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.793
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 58, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:26.813
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 59, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:28.483
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 60, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:28.503
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 61, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:28.523
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 62, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:28.553
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 63, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:29.893
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 64, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:29.923
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 65, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:29.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 66, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:29.963
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 67, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:29.983
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 68, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:30.003
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 69, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:30.023
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 70, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:30.073
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 71, Message Type: Object_Handling_Info, Message Created: 2010-12-22 20:14:30.093
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresKIWIminiprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Store summary: Total: 70, ignored: 0.
+

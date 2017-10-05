@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Location>
+    <streetName>Chr. M. Østergaards Vej</streetName>
+    <streetBuildingIdentifier>1A</streetBuildingIdentifier>
+    <postCodeIdentifier>8700</postCodeIdentifier>
+    <districtName>Horsens</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.86829755</latitude>
+    <longitude>9.88542735</longitude>
+  </Location>
+  <Location>
+    <streetName>Gyngemose Parkvej</streetName>
+    <streetBuildingIdentifier>78</streetBuildingIdentifier>
+    <postCodeIdentifier>2860</postCodeIdentifier>
+    <districtName>Søborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.72827041</latitude>
+    <longitude>12.47778187</longitude>
+  </Location>
+  <Location>
+    <streetName>Døesvej</streetName>
+    <streetBuildingIdentifier>17</streetBuildingIdentifier>
+    <postCodeIdentifier>7500</postCodeIdentifier>
+    <districtName>Holstebro</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.36485619</latitude>
+    <longitude>8.60878157</longitude>
+  </Location>
+  <Location>
+    <streetName>Rådhus Allé</streetName>
+    <streetBuildingIdentifier>22</streetBuildingIdentifier>
+    <postCodeIdentifier>3650</postCodeIdentifier>
+    <districtName>Ølstykke</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.79512663</latitude>
+    <longitude>12.15837768</longitude>
+  </Location>
+  <Location>
+    <streetName>Bredballe Center</streetName>
+    <streetBuildingIdentifier>37</streetBuildingIdentifier>
+    <postCodeIdentifier>7120</postCodeIdentifier>
+    <districtName>Vejle Øst</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.71893287</latitude>
+    <longitude>9.61027469</longitude>
+  </Location>
+</objects>

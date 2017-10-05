@@ -1,0 +1,8 @@
+Processing: GeoCodingEniro-Lidl.zip
+Unzipping: GeoCodingEniro-Lidl.xml
+-!- multiple stores at same address. Store.id=283011, Store.chainID=19
+-!- multiple stores at same address. Store.id=334003, Store.chainID=10
+
+Locations: 77
+Updated Stores: 78
+

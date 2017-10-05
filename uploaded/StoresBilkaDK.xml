@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Esbjerg</name>
+    <streetName>Stormgade</streetName>
+    <streetBuildingIdentifier>157</streetBuildingIdentifier>
+    <postCodeIdentifier>6715</postCodeIdentifier>
+    <districtName>Esbjerg N</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>79146000</telephone>
+    <telefax></telefax>
+    <email>kundemail.esbjerg@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Holstebro</name>
+    <streetName>Nyholmvej</streetName>
+    <streetBuildingIdentifier>20</streetBuildingIdentifier>
+    <postCodeIdentifier>7500</postCodeIdentifier>
+    <districtName>Holstebro</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96123000</telephone>
+    <telefax></telefax>
+    <email>kundemail.holstebro@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Horsens</name>
+    <streetName>Høegh Guldbergs Gade</streetName>
+    <streetBuildingIdentifier>10</streetBuildingIdentifier>
+    <postCodeIdentifier>8700</postCodeIdentifier>
+    <districtName>Horsens</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>76283000</telephone>
+    <telefax></telefax>
+    <email>kundemail.horsens@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Hundige</name>
+    <streetName>Over Bølgen</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>2670</postCodeIdentifier>
+    <districtName>Greve</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>43955000</telephone>
+    <telefax></telefax>
+    <email>kundemail.hundige@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Ishøj</name>
+    <streetName>Ishøj Lille Torv</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>2635</postCodeIdentifier>
+    <districtName>Ishøj</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>43571000</telephone>
+    <telefax></telefax>
+    <email>kundemail.ishoej@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Kolding</name>
+    <streetName>Skovvangen</streetName>
+    <streetBuildingIdentifier>40</streetBuildingIdentifier>
+    <postCodeIdentifier>6000</postCodeIdentifier>
+    <districtName>Kolding</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>76346000</telephone>
+    <telefax></telefax>
+    <email>kundemail.kolding@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Næstved</name>
+    <streetName>Næstved Storcenter</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>4700</postCodeIdentifier>
+    <districtName>Næstved</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>55789000</telephone>
+    <telefax></telefax>
+    <email>kundemail.naestved@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Odense</name>
+    <streetName>Niels Bohrs Alle</streetName>
+    <streetBuildingIdentifier>150</streetBuildingIdentifier>
+    <postCodeIdentifier>5230</postCodeIdentifier>
+    <districtName>Odense</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>63906000</telephone>
+    <telefax></telefax>
+    <email>kundemail.odense@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka One Stop Fields</name>
+    <streetName>Arne Jacobsens Alle</streetName>
+    <streetBuildingIdentifier>24</streetBuildingIdentifier>
+    <postCodeIdentifier>2300</postCodeIdentifier>
+    <districtName>København S</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>55788000</telephone>
+    <telefax></telefax>
+    <email>kundemail.amager@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Skalborg</name>
+    <streetName>Hobrovej</streetName>
+    <streetBuildingIdentifier>450</streetBuildingIdentifier>
+    <postCodeIdentifier>9200</postCodeIdentifier>
+    <districtName>Aalborg Sv</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98797000</telephone>
+    <telefax></telefax>
+    <email>kundemail.skalborg@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Slagelse</name>
+    <streetName>Idagårdsvej</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>4200</postCodeIdentifier>
+    <districtName>Slagelse</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>58566000</telephone>
+    <telefax></telefax>
+    <email>kundemail.slagelse@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Sønderborg</name>
+    <streetName>Grundtvigsalle</streetName>
+    <streetBuildingIdentifier>195</streetBuildingIdentifier>
+    <postCodeIdentifier>6400</postCodeIdentifier>
+    <districtName>Sønderborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>73126000</telephone>
+    <telefax></telefax>
+    <email>kundemail.soenderborg@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Tilst</name>
+    <streetName>Agerøvej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>8381</postCodeIdentifier>
+    <districtName>Tilst</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>87455000</telephone>
+    <telefax></telefax>
+    <email>kundemail.tilst@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Vejle</name>
+    <streetName>Solkilde Alle</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>7100</postCodeIdentifier>
+    <districtName>Vejle</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>76416000</telephone>
+    <telefax></telefax>
+    <email>kundemail.vejle@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>8</chainID>
+    <name>Bilka Viborg</name>
+    <streetName>Holstebrovej</streetName>
+    <streetBuildingIdentifier>79</streetBuildingIdentifier>
+    <postCodeIdentifier>8800</postCodeIdentifier>
+    <districtName>Viborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>87274000</telephone>
+    <telefax></telefax>
+    <email>kundemail.viborg@bilka.dk</email>
+    <website>http://www.bilka.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+</objects>

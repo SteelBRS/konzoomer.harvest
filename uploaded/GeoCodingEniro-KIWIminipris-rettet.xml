@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Location>
+    <streetName>Østergade</streetName>
+    <streetBuildingIdentifier>5</streetBuildingIdentifier>
+    <postCodeIdentifier>5610</postCodeIdentifier>
+    <districtName>Assens</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.27003097</latitude>
+    <longitude>9.89390001</longitude>
+  </Location>
+  <Location>
+    <streetName>H. C. Andersensvej</streetName>
+    <streetBuildingIdentifier>2F</streetBuildingIdentifier>
+    <postCodeIdentifier>8752</postCodeIdentifier>
+    <districtName>Østbirk</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.96902995</latitude>
+    <longitude>9.74909059</longitude>
+  </Location>
+  <Location>
+    <streetName>Park Allé</streetName>
+    <streetBuildingIdentifier>9 A</streetBuildingIdentifier>
+    <postCodeIdentifier>8960</postCodeIdentifier>
+    <districtName>Randers SØ</districtName>
+    <districtSubDivisionIdentifier>Assentoft</districtSubDivisionIdentifier>
+    <latitude>56.43944328</latitude>
+    <longitude>10.1479048</longitude>
+  </Location>
+</objects>

@@ -1,0 +1,2243 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Middelfart</name>
+    <streetName>Odensevej</streetName>
+    <streetBuildingIdentifier>190</streetBuildingIdentifier>
+    <postCodeIdentifier>5500</postCodeIdentifier>
+    <districtName>Middelfart</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>64417608</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Glamsbjerg</name>
+    <streetName>Østergaards Plads</streetName>
+    <streetBuildingIdentifier>11</streetBuildingIdentifier>
+    <postCodeIdentifier>5620</postCodeIdentifier>
+    <districtName>Glamsbjerg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>64722875</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Nr. Broby</name>
+    <streetName>Stationsvej</streetName>
+    <streetBuildingIdentifier>30</streetBuildingIdentifier>
+    <postCodeIdentifier>5672</postCodeIdentifier>
+    <districtName>Nr. Broby</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>63630049</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Ringe</name>
+    <streetName>Odensevej</streetName>
+    <streetBuildingIdentifier>32-36</streetBuildingIdentifier>
+    <postCodeIdentifier>5750</postCodeIdentifier>
+    <districtName>Ringe</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>62623060</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Odense C</name>
+    <streetName>Roersvej</streetName>
+    <streetBuildingIdentifier>33</streetBuildingIdentifier>
+    <postCodeIdentifier>5000</postCodeIdentifier>
+    <districtName>Odense C</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>66123758</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Odense N</name>
+    <streetName>Ærtebjerghaven</streetName>
+    <streetBuildingIdentifier>3</streetBuildingIdentifier>
+    <postCodeIdentifier>5270</postCodeIdentifier>
+    <districtName>Odense N</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>66181607</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Bullerup</name>
+    <streetName>Mølledammen</streetName>
+    <streetBuildingIdentifier>11</streetBuildingIdentifier>
+    <postCodeIdentifier>5320</postCodeIdentifier>
+    <districtName>Bullerup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>65938557</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Ullerslev</name>
+    <streetName>Ullerslev Centret</streetName>
+    <streetBuildingIdentifier>30</streetBuildingIdentifier>
+    <postCodeIdentifier>5540</postCodeIdentifier>
+    <districtName>Ullerslev</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>63350876</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Nr. Lyndelse</name>
+    <streetName>Bøgevej</streetName>
+    <streetBuildingIdentifier>1-3</streetBuildingIdentifier>
+    <postCodeIdentifier>5792</postCodeIdentifier>
+    <districtName>Årslev</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>65982843</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Assens</name>
+    <streetName>Østegade</streetName>
+    <streetBuildingIdentifier>5</streetBuildingIdentifier>
+    <postCodeIdentifier>5610</postCodeIdentifier>
+    <districtName>Assens</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>64714823</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Vissenbjerg</name>
+    <streetName>Vestergade</streetName>
+    <streetBuildingIdentifier>9</streetBuildingIdentifier>
+    <postCodeIdentifier>5492</postCodeIdentifier>
+    <districtName>Vissenbjerg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>80684382</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hobro</name>
+    <streetName>Forsythiavej</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>9500</postCodeIdentifier>
+    <districtName>Hobro</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98512581</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hadsund</name>
+    <streetName>Himmerlandsgade</streetName>
+    <streetBuildingIdentifier>6-8</streetBuildingIdentifier>
+    <postCodeIdentifier>9560</postCodeIdentifier>
+    <districtName>Hadsund</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98574322</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Nibe</name>
+    <streetName>Skomagertorvet</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>9240</postCodeIdentifier>
+    <districtName>Nibe</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98352588</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Brovst</name>
+    <streetName>Vestergade</streetName>
+    <streetBuildingIdentifier>30</streetBuildingIdentifier>
+    <postCodeIdentifier>9460</postCodeIdentifier>
+    <districtName>Brovst</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96442001</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Støvring</name>
+    <streetName>Grangårdscentret</streetName>
+    <streetBuildingIdentifier>51</streetBuildingIdentifier>
+    <postCodeIdentifier>9530</postCodeIdentifier>
+    <districtName>Støvring</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98373260</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Dronninglund</name>
+    <streetName>Stationstorvet</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>9330</postCodeIdentifier>
+    <districtName>Dronninglund</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96470002</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Pandrup</name>
+    <streetName>Bredgade</streetName>
+    <streetBuildingIdentifier>6</streetBuildingIdentifier>
+    <postCodeIdentifier>9490</postCodeIdentifier>
+    <districtName>Pandrup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98247777</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Vrå</name>
+    <streetName>Mejerigade</streetName>
+    <streetBuildingIdentifier>15</streetBuildingIdentifier>
+    <postCodeIdentifier>9760</postCodeIdentifier>
+    <districtName>Vrå</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98980482</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Frederikshavn</name>
+    <streetName>Maigårdsvej</streetName>
+    <streetBuildingIdentifier>3</streetBuildingIdentifier>
+    <postCodeIdentifier>9900</postCodeIdentifier>
+    <districtName>Frederikshavn</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98435292</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Aalbæk</name>
+    <streetName>Sdr. Havnevej</streetName>
+    <streetBuildingIdentifier>4</streetBuildingIdentifier>
+    <postCodeIdentifier>9982</postCodeIdentifier>
+    <districtName>Aalbæk</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96216111</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Thisted</name>
+    <streetName>Simons Bakke</streetName>
+    <streetBuildingIdentifier>72</streetBuildingIdentifier>
+    <postCodeIdentifier>7700</postCodeIdentifier>
+    <districtName>Thisted</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>97961016</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hjørring</name>
+    <streetName>Nørrebro</streetName>
+    <streetBuildingIdentifier>9</streetBuildingIdentifier>
+    <postCodeIdentifier>9800</postCodeIdentifier>
+    <districtName>Hjørring</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98990969</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hobro Syd</name>
+    <streetName>Thurøvej</streetName>
+    <streetBuildingIdentifier>9</streetBuildingIdentifier>
+    <postCodeIdentifier>9500</postCodeIdentifier>
+    <districtName>Hobro</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>98575666</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Thisted, Iversensvej</name>
+    <streetName>Iversensvej</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>7700</postCodeIdentifier>
+    <districtName>Thisted</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96550055</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Århus C</name>
+    <streetName>Frederiks Alle</streetName>
+    <streetBuildingIdentifier>168-170</streetBuildingIdentifier>
+    <postCodeIdentifier>8000</postCodeIdentifier>
+    <districtName>Århus C</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86139499</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Århus C</name>
+    <streetName>Skovvejen</streetName>
+    <streetBuildingIdentifier>17</streetBuildingIdentifier>
+    <postCodeIdentifier>8000</postCodeIdentifier>
+    <districtName>Århus C</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86134370</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Møllevang</name>
+    <streetName>Møllevangs Alle</streetName>
+    <streetBuildingIdentifier>151</streetBuildingIdentifier>
+    <postCodeIdentifier>8210</postCodeIdentifier>
+    <districtName>Århus C</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86160433</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Højbjerg</name>
+    <streetName>Kridthøjvej</streetName>
+    <streetBuildingIdentifier>8</streetBuildingIdentifier>
+    <postCodeIdentifier>8270</postCodeIdentifier>
+    <districtName>Højbjerg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86274379</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Lystrup</name>
+    <streetName>Bystævnet</streetName>
+    <streetBuildingIdentifier>5</streetBuildingIdentifier>
+    <postCodeIdentifier>8520</postCodeIdentifier>
+    <districtName>Lystrup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86229511</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Egå</name>
+    <streetName>Blomstervangen</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>8250</postCodeIdentifier>
+    <districtName>Egå</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86222815</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hadsten</name>
+    <streetName>Ågade</streetName>
+    <streetBuildingIdentifier>20</streetBuildingIdentifier>
+    <postCodeIdentifier>8370</postCodeIdentifier>
+    <districtName>Hadsten</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86983404</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hinnerup</name>
+    <streetName>Pakhusvej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>8382</postCodeIdentifier>
+    <districtName>Hinnerup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86988499</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Skødstrup</name>
+    <streetName>Grenåvej</streetName>
+    <streetBuildingIdentifier>745</streetBuildingIdentifier>
+    <postCodeIdentifier>8541</postCodeIdentifier>
+    <districtName>Skødstrup</districtName>
+    <districtSubDivisionIdentifier>Løgten</districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86990405</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Ringkøbing</name>
+    <streetName>Herningvej</streetName>
+    <streetBuildingIdentifier>7A</streetBuildingIdentifier>
+    <postCodeIdentifier>6950</postCodeIdentifier>
+    <districtName>Ringkøbing</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96940114</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Brande</name>
+    <streetName>Christian Bergsvej</streetName>
+    <streetBuildingIdentifier>3</streetBuildingIdentifier>
+    <postCodeIdentifier>7330</postCodeIdentifier>
+    <districtName>Brande</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96420226</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Grenå</name>
+    <streetName>De Lichtenbergs Vej</streetName>
+    <streetBuildingIdentifier>11-13</streetBuildingIdentifier>
+    <postCodeIdentifier>8500</postCodeIdentifier>
+    <districtName>Grenå</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>87589723</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Ryomgård</name>
+    <streetName>Jernbanegade</streetName>
+    <streetBuildingIdentifier>20</streetBuildingIdentifier>
+    <postCodeIdentifier>8550</postCodeIdentifier>
+    <districtName>Ryomgård</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86394467</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Assentoft</name>
+    <streetName>Park Allé</streetName>
+    <streetBuildingIdentifier>9 A</streetBuildingIdentifier>
+    <postCodeIdentifier>8900</postCodeIdentifier>
+    <districtName>Assentoft</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>87959277</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Auning</name>
+    <streetName>Mølletorvet</streetName>
+    <streetBuildingIdentifier>5</streetBuildingIdentifier>
+    <postCodeIdentifier>8963</postCodeIdentifier>
+    <districtName>Auning</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86483876</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Ebeltoft</name>
+    <streetName>Sønder Skovvænget</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>8400</postCodeIdentifier>
+    <districtName>Ebeltoft</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86344022</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hornslet</name>
+    <streetName>Tingvej</streetName>
+    <streetBuildingIdentifier>43</streetBuildingIdentifier>
+    <postCodeIdentifier>8543</postCodeIdentifier>
+    <districtName>Hornslet</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86995855</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Them</name>
+    <streetName>Silkeborgvej</streetName>
+    <streetBuildingIdentifier>66-68</streetBuildingIdentifier>
+    <postCodeIdentifier>8653</postCodeIdentifier>
+    <districtName>Them</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86869790</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Stilling</name>
+    <streetName>Hotelvej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>8660</postCodeIdentifier>
+    <districtName>Stilling</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86570198</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Østbirk</name>
+    <streetName>HC Andersens Vej</streetName>
+    <streetBuildingIdentifier>2F</streetBuildingIdentifier>
+    <postCodeIdentifier>8752</postCodeIdentifier>
+    <districtName>Østbirk</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>75662002</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Galten</name>
+    <streetName>Torvet</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>8464</postCodeIdentifier>
+    <districtName>Galten</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86945322</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Bjerringbro</name>
+    <streetName>Brogade</streetName>
+    <streetBuildingIdentifier>49</streetBuildingIdentifier>
+    <postCodeIdentifier>8850</postCodeIdentifier>
+    <districtName>Bjerringbro</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86684835</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Ikast</name>
+    <streetName>Grønlandsgade</streetName>
+    <streetBuildingIdentifier>15</streetBuildingIdentifier>
+    <postCodeIdentifier>7430</postCodeIdentifier>
+    <districtName>Ikast</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>97151666</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Løsning</name>
+    <streetName>Sneppevej</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>8723</postCodeIdentifier>
+    <districtName>Løsning</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>76742931</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Skjern</name>
+    <streetName>Østergade</streetName>
+    <streetBuildingIdentifier>9</streetBuildingIdentifier>
+    <postCodeIdentifier>6900</postCodeIdentifier>
+    <districtName>Skjern</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>96800786</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hammel</name>
+    <streetName>Nørreport</streetName>
+    <streetBuildingIdentifier>6</streetBuildingIdentifier>
+    <postCodeIdentifier>8450</postCodeIdentifier>
+    <districtName>Hammel</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86910278</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Hammerum</name>
+    <streetName>Hammerum Hovedgade</streetName>
+    <streetBuildingIdentifier>78A</streetBuildingIdentifier>
+    <postCodeIdentifier>7400</postCodeIdentifier>
+    <districtName>Herning</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>97124486</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Randers</name>
+    <streetName>Gl. Hobrovej</streetName>
+    <streetBuildingIdentifier>80</streetBuildingIdentifier>
+    <postCodeIdentifier>8920</postCodeIdentifier>
+    <districtName>Randers NV</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86432099</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Herning</name>
+    <streetName>Ringstedvej</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>7400</postCodeIdentifier>
+    <districtName>Herning</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>97133885</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Silkeborg</name>
+    <streetName>Godthåbsvej</streetName>
+    <streetBuildingIdentifier>12</streetBuildingIdentifier>
+    <postCodeIdentifier>8600</postCodeIdentifier>
+    <districtName>Silkeborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>86879758</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Grindsted</name>
+    <streetName>Fælledvej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>7200</postCodeIdentifier>
+    <districtName>Grindsted</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>75353232</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Herning, Holstebrovej</name>
+    <streetName>Holstebrovej</streetName>
+    <streetBuildingIdentifier>33</streetBuildingIdentifier>
+    <postCodeIdentifier>7400</postCodeIdentifier>
+    <districtName>Herning</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>97145016</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Fredericia</name>
+    <streetName>Prangervej</streetName>
+    <streetBuildingIdentifier>87</streetBuildingIdentifier>
+    <postCodeIdentifier>7000</postCodeIdentifier>
+    <districtName>Fredericia</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>75514111</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Korsør</name>
+    <streetName>Nor Alleen</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>4220</postCodeIdentifier>
+    <districtName>Korsør</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>58363239</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Stege</name>
+    <streetName>Storegade</streetName>
+    <streetBuildingIdentifier>46</streetBuildingIdentifier>
+    <postCodeIdentifier>4780</postCodeIdentifier>
+    <districtName>Stege</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>55893864</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI København Ø</name>
+    <streetName>Nygårdsvej</streetName>
+    <streetBuildingIdentifier>32</streetBuildingIdentifier>
+    <postCodeIdentifier>2100</postCodeIdentifier>
+    <districtName>København Ø</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>39271037</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Næstved</name>
+    <streetName>Fodbygårdsvej</streetName>
+    <streetBuildingIdentifier>16</streetBuildingIdentifier>
+    <postCodeIdentifier>4700</postCodeIdentifier>
+    <districtName>Næstved</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>55751551</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Oksbøl</name>
+    <streetName>Thuesvej</streetName>
+    <streetBuildingIdentifier>4</streetBuildingIdentifier>
+    <postCodeIdentifier>6840</postCodeIdentifier>
+    <districtName>Oksbøl</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>75275126</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Lunderskov</name>
+    <streetName>Kongsbjerg</streetName>
+    <streetBuildingIdentifier>5</streetBuildingIdentifier>
+    <postCodeIdentifier>6640</postCodeIdentifier>
+    <districtName>Lunderskov</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>76840483</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Brørup</name>
+    <streetName>Torvegade</streetName>
+    <streetBuildingIdentifier>6</streetBuildingIdentifier>
+    <postCodeIdentifier>6650</postCodeIdentifier>
+    <districtName>Brørup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>75383410</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Haderslev</name>
+    <streetName>Lyøvej</streetName>
+    <streetBuildingIdentifier>10</streetBuildingIdentifier>
+    <postCodeIdentifier>6100</postCodeIdentifier>
+    <districtName>Haderslev</districtName>
+    <districtSubDivisionIdentifier>Starup</districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>74521026</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Bramming</name>
+    <streetName>Storegade</streetName>
+    <streetBuildingIdentifier>59-61</streetBuildingIdentifier>
+    <postCodeIdentifier>6740</postCodeIdentifier>
+    <districtName>Bramming</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>75101489</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Sønderborg</name>
+    <streetName>Ringbakken</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>6400</postCodeIdentifier>
+    <districtName>Sønderborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>73452252</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Løjt Kirkeby</name>
+    <streetName>Løjt Storegade</streetName>
+    <streetBuildingIdentifier>36-36B</streetBuildingIdentifier>
+    <postCodeIdentifier>6200</postCodeIdentifier>
+    <districtName>Løjt Kirkeby</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone>74626060</telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>18</chainID>
+    <name>KIWI Haderslev</name>
+    <streetName>Varbergvej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>6100</postCodeIdentifier>
+    <districtName>Haderslev</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson></contactPerson>
+    <telephone></telephone>
+    <telefax></telefax>
+    <email>info@kiwidanmark.dk</email>
+    <website>http://www.kiwiminipris.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen></mondayOpen>
+    <mondayClose></mondayClose>
+    <tuesdayOpen></tuesdayOpen>
+    <tuesdayClose></tuesdayClose>
+    <wednesdayOpen></wednesdayOpen>
+    <wednesdayClose></wednesdayClose>
+    <thursdayOpen></thursdayOpen>
+    <thursdayClose></thursdayClose>
+    <fridayOpen></fridayOpen>
+    <fridayClose></fridayClose>
+    <saturdayOpen></saturdayOpen>
+    <saturdayClose></saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+</objects>

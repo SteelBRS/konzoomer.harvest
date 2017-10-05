@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Location>
+    <streetName>Gudrunsvej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>8220</postCodeIdentifier>
+    <districtName>Brabrand</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.15511028</latitude>
+    <longitude>10.13485596</longitude>
+  </Location>
+  <Location>
+    <streetName>Immerkær</streetName>
+    <streetBuildingIdentifier>27</streetBuildingIdentifier>
+    <postCodeIdentifier>2650</postCodeIdentifier>
+    <districtName>Hvidovre</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.66334351</latitude>
+    <longitude>12.45870173</longitude>
+  </Location>
+  <Location>
+    <streetName>Nørregade</streetName>
+    <streetBuildingIdentifier>13-19</streetBuildingIdentifier>
+    <postCodeIdentifier>4100</postCodeIdentifier>
+    <districtName>Ringsted</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.44688721</latitude>
+    <longitude>11.78882538</longitude>
+  </Location>
+</objects>

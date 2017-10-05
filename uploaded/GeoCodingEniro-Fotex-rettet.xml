@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Location>
+    <streetName>Maglebytorv</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>2791</postCodeIdentifier>
+    <districtName>Dragør</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.5954998</latitude>
+    <longitude>12.66023977</longitude>
+  </Location>
+  <Location>
+    <streetName>Finlandsgade</streetName>
+    <streetBuildingIdentifier>17-19</streetBuildingIdentifier>
+    <postCodeIdentifier>8200</postCodeIdentifier>
+    <districtName>Århus N</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.1710761</latitude>
+    <longitude>10.18944432</longitude>
+  </Location>
+  <Location>
+    <streetName>Storegade</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>7700</postCodeIdentifier>
+    <districtName>Thisted</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.95461258</latitude>
+    <longitude>8.69131079</longitude>
+  </Location>
+  <Location>
+    <streetName>Skelagervej</streetName>
+    <streetBuildingIdentifier>1-9</streetBuildingIdentifier>
+    <postCodeIdentifier>8200</postCodeIdentifier>
+    <districtName>Århus N</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.19166515</latitude>
+    <longitude>10.19678814</longitude>
+  </Location>
+  <Location>
+    <streetName>Borupvang</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>2750</postCodeIdentifier>
+    <districtName>Ballerup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.73307864</latitude>
+    <longitude>12.38720617</longitude>
+  </Location>
+  <Location>
+    <streetName>Frederiks Allé</streetName>
+    <streetBuildingIdentifier>22-24</streetBuildingIdentifier>
+    <postCodeIdentifier>8000</postCodeIdentifier>
+    <districtName>Århus C</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.15097782</latitude>
+    <longitude>10.19946415</longitude>
+  </Location>
+  <Location>
+    <streetName>Windfeld-Hansens Gade</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>7100</postCodeIdentifier>
+    <districtName>Vejle</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.70796123</latitude>
+    <longitude>9.54340638</longitude>
+  </Location>
+</objects>

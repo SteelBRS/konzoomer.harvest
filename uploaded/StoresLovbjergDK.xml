@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Odense</name>
+    <streetName>Tarup Centret, Rugvang</streetName>
+    <streetBuildingIdentifier>36-38</streetBuildingIdentifier>
+    <postCodeIdentifier>5210</postCodeIdentifier>
+    <districtName>Odense NV</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Ulrik Rasmussen</contactPerson>
+    <telephone>96132100</telephone>
+    <telefax>66165370</telefax>
+    <email>ura@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Aabenraa</name>
+    <streetName>H P Hanssens Gade</streetName>
+    <streetBuildingIdentifier>41</streetBuildingIdentifier>
+    <postCodeIdentifier>6200</postCodeIdentifier>
+    <districtName>Aabenraa</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Thomas Jordt</contactPerson>
+    <telephone>96132140</telephone>
+    <telefax>74686920</telefax>
+    <email>tjo@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Vejen</name>
+    <streetName>Lindetorvet</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>6600</postCodeIdentifier>
+    <districtName>Vejen</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Flemming Sylvest</contactPerson>
+    <telephone>96132400</telephone>
+    <telefax>75367782</telefax>
+    <email>fsy@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Varde</name>
+    <streetName>Varde Centret</streetName>
+    <streetBuildingIdentifier></streetBuildingIdentifier>
+    <postCodeIdentifier>6800</postCodeIdentifier>
+    <districtName>Varde</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Christian Winther</contactPerson>
+    <telephone>96132170</telephone>
+    <telefax>75222176</telefax>
+    <email>cwi@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Tarm</name>
+    <streetName>Åboulevarden</streetName>
+    <streetBuildingIdentifier>65</streetBuildingIdentifier>
+    <postCodeIdentifier>6880</postCodeIdentifier>
+    <districtName>Tarm</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Kim Lund</contactPerson>
+    <telephone>96132120</telephone>
+    <telefax>97350606</telefax>
+    <email>kilu@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Ikast</name>
+    <streetName>Vestergade</streetName>
+    <streetBuildingIdentifier>63</streetBuildingIdentifier>
+    <postCodeIdentifier>7430</postCodeIdentifier>
+    <districtName>Ikast</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Kirsten Rasmussen</contactPerson>
+    <telephone>96132010</telephone>
+    <telefax>97157455</telefax>
+    <email>kra@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Struer</name>
+    <streetName>Søndergårdsvej</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>7600</postCodeIdentifier>
+    <districtName>Struer</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Karsten Poulsen</contactPerson>
+    <telephone>96132020</telephone>
+    <telefax>97841209</telefax>
+    <email>kpo@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Nykøbing Mors</name>
+    <streetName>Vestergade</streetName>
+    <streetBuildingIdentifier>15</streetBuildingIdentifier>
+    <postCodeIdentifier>7900</postCodeIdentifier>
+    <districtName>Nykøbing Mors</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Bjarne Smedegaard</contactPerson>
+    <telephone>96132030</telephone>
+    <telefax>97724587</telefax>
+    <email>bsm@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Århus N.</name>
+    <streetName>Trøjborg Center</streetName>
+    <streetBuildingIdentifier></streetBuildingIdentifier>
+    <postCodeIdentifier>8200</postCodeIdentifier>
+    <districtName>Århus N</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Claus Hoegh</contactPerson>
+    <telephone>96132060</telephone>
+    <telefax>86107416</telefax>
+    <email>cho@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Odder</name>
+    <streetName>Nørregade</streetName>
+    <streetBuildingIdentifier>10</streetBuildingIdentifier>
+    <postCodeIdentifier>8300</postCodeIdentifier>
+    <districtName>Odder</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Simon Jensen</contactPerson>
+    <telephone>96132050</telephone>
+    <telefax>86542123</telefax>
+    <email>sje@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Skanderborg</name>
+    <streetName>Adelgade</streetName>
+    <streetBuildingIdentifier>70</streetBuildingIdentifier>
+    <postCodeIdentifier>8660</postCodeIdentifier>
+    <districtName>Skanderborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Bo Sørensen</contactPerson>
+    <telephone>96132040</telephone>
+    <telefax>86525105</telefax>
+    <email>bso@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Horsens</name>
+    <streetName>Borgergade</streetName>
+    <streetBuildingIdentifier>12</streetBuildingIdentifier>
+    <postCodeIdentifier>8700</postCodeIdentifier>
+    <districtName>Horsens</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Viggo Christensen</contactPerson>
+    <telephone>96132070</telephone>
+    <telefax>75624823</telefax>
+    <email>vch@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Viborg (Koldingvej)</name>
+    <streetName>Koldingvej</streetName>
+    <streetBuildingIdentifier>130</streetBuildingIdentifier>
+    <postCodeIdentifier>8800</postCodeIdentifier>
+    <districtName>Viborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Søren Christensen</contactPerson>
+    <telephone>96132090</telephone>
+    <telefax>86620928</telefax>
+    <email>sch@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Viborg (Randersvej)</name>
+    <streetName>Randersvej</streetName>
+    <streetBuildingIdentifier>60</streetBuildingIdentifier>
+    <postCodeIdentifier>8800</postCodeIdentifier>
+    <districtName>Viborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Bjarne Kurinow</contactPerson>
+    <telephone>96132130</telephone>
+    <telefax>87991350</telefax>
+    <email>bku@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>20</chainID>
+    <name>Løvbjerg - Brønderslev</name>
+    <streetName>Arkaden</streetName>
+    <streetBuildingIdentifier>14</streetBuildingIdentifier>
+    <postCodeIdentifier>9700</postCodeIdentifier>
+    <districtName>Brønderslev</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Kjeld Gabriel</contactPerson>
+    <telephone>96132080</telephone>
+    <telefax>96468343</telefax>
+    <email>kga@lovbjerg.dk</email>
+    <website>http://www.lovbjerg.dk</website>
+    <latitude></latitude>
+    <longitude></longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+</objects>

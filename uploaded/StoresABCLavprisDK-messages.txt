@@ -1,0 +1,115 @@
+Message Number: 1, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:33.885
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 2, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:34.205
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 3, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:34.545
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 4, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:34.925
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 5, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:35.225
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 6, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:35.525
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 7, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:35.895
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 8, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:37.195
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 9, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:37.505
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 10, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:37.905
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 11, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:38.345
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 12, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:38.755
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 13, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:39.065
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 14, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:39.365
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 15, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:39.725
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 16, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:40.075
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 17, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:40.425
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 18, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:40.865
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 19, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:41.215
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 20, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:41.555
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 21, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:41.935
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 22, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:42.305
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 23, Message Type: Object_Handling_Info, Message Created: 2010-12-22 23:23:42.315
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresABCLavprisDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Store summary: Total: 22, ignored: 0.
+

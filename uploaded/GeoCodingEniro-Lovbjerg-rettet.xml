@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Location>
+    <streetName>Rugvang</streetName>
+    <streetBuildingIdentifier>36-38</streetBuildingIdentifier>
+    <postCodeIdentifier>5210</postCodeIdentifier>
+    <districtName>Odense NV</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.4097761</latitude>
+    <longitude>10.33900028</longitude>
+  </Location>
+</objects>

@@ -1,0 +1,1647 @@
+Message Number: 1, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:30.503
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 2, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:32.053
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 3, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:33.533
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 4, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:34.963
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 5, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:36.503
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 6, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:37.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 7, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:39.433
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 8, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:40.873
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 9, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:42.393
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 10, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:43.753
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 11, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:45.193
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 12, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:46.603
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 13, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:48.053
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 14, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:49.513
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 15, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:50.903
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 16, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:55.873
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 17, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:57.353
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 18, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:23:58.883
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 19, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:00.293
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 20, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:01.783
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 21, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:03.173
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 22, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:04.633
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 23, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-22 15:24:05.473
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Click action. Could not load from the URL "http://www.rema1000.dk/Default.aspx?ID=83&DealerID=235".
+   Unexpected end of ZLIB input stream
+Additional Information:
+   ERROR REPORT
+   Report created at: Load Page - For Each Tag Path[23] - Extract name - Extract streetName -
+   Extract streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Click action. Could not load from the URL "http://www.rema1000.dk/Default.aspx?ID=83&DealerID=235".
+   Unexpected end of ZLIB input stream
+   Error Location: Load Page - For Each Tag Path[23] - Extract name - Extract streetName - Extract
+   streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click
+   Error Location Code: {<0>.<1>[22].<2>.<4>.<5>.<6>.<7>.<8>.<3>}
+
+Message Number: 24, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:06.933
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 25, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:08.333
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 26, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:09.813
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 27, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:11.233
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 28, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:12.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 29, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:14.843
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 30, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:16.313
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 31, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:17.673
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 32, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:19.143
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 33, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:20.533
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 34, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:21.923
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 35, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:23.293
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 36, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:24.753
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 37, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:26.173
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 38, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:27.603
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 39, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:29.003
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 40, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:30.443
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 41, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:31.813
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 42, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:33.233
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 43, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:34.753
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 44, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:36.233
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 45, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:37.603
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 46, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:39.103
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 47, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:40.503
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 48, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:41.953
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 49, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:43.383
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 50, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:44.863
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 51, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:46.373
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 52, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-22 15:24:47.523
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Extract action. The attribute is of type Date and this text is not a valid date
+   (the format must be yyyy-mm-dd hh:mm:ss.fffffffff): "2010-01-01 <table cellPadding="0" cellSpacing="0"
+   border="0" width="100%">
+   <tbody>
+   <tr>
+   <td width="145" vAlign="top"><img src="http://www.rema1000.dk/files/billeder/rema1000/kort/default.jpg"></td><td>
+   <table width="99%" cellSpacing="0" cellPadding="0">
+   <tbody>
+   <tr>
+   <td colSpan="2" class="DealerLabel" style="padding-top: 10px;">
+   <h2 class="h2">
+   Herning, Absalonsvej
+   </h2>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>Adresse</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Postnr.</strong></td><td style="padding-bottom:
+   6px;"><!--@DealerSearchDealerZip--></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>K&oslash;bmand</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Tlf.</strong></td><td style="padding-bottom:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;" vAlign="top"><strong>&Aring;bningstider</strong></td><td
+   style="padding-top: 6px;">
+   <table cellPadding="0" cellSpacing="0" border="0">
+   <tbody>
+   <tr>
+   <td>Mandag</td><td></td>
+   </tr>
+   <tr>
+   <td>Tirsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Onsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Torsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Fredag</td><td></td>
+   </tr>
+   <tr>
+   <td>L&oslash;rdag</td><td></td>
+   </tr>
+   <tr>
+   <td>S&oslash;ndag</td><td></td>
+   </tr>
+   <tr>
+   <td>Xtra &aring;bent&nbsp;&nbsp;&nbsp;</td><td><!--@DealerSearchDealerXtra--></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px; padding-bottom: 6px;"><strong>Smiley</strong></td><td
+   style="padding-top: 6px; padding-bottom: 6px;"><a href="http://www.rema1000.dk/" target="_blank">Se
+   forretningens smileys her</a></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td></td><td align="right" style="padding: 10px 5px 5px 0;"><a href="javascript:history.go(-1);">Tilbage</a></td>
+   </tr>
+   </tbody>
+   </table>:00".
+Additional Information:
+   ERROR REPORT
+   Report created at: Load Page - For Each Tag Path[52] - Extract name - Extract streetName -
+   Extract streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Extract action. The attribute is of type Date and this text is
+   not a valid date (the format must be yyyy-mm-dd hh:mm:ss.fffffffff): "2010-01-01 <table cellPadding="0"
+   cellSpacing="0" border="0" width="100%">
+   <tbody>
+   <tr>
+   <td width="145" vAlign="top"><img src="http://www.rema1000.dk/files/billeder/rema1000/kort/default.jpg"></td><td>
+   <table width="99%" cellSpacing="0" cellPadding="0">
+   <tbody>
+   <tr>
+   <td colSpan="2" class="DealerLabel" style="padding-top: 10px;">
+   <h2 class="h2">
+   Herning, Absalonsvej
+   </h2>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>Adresse</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Postnr.</strong></td><td style="padding-bottom:
+   6px;"><!--@DealerSearchDealerZip--></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>K&oslash;bmand</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Tlf.</strong></td><td style="padding-bottom:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;" vAlign="top"><strong>&Aring;bningstider</strong></td><td
+   style="padding-top: 6px;">
+   <table cellPadding="0" cellSpacing="0" border="0">
+   <tbody>
+   <tr>
+   <td>Mandag</td><td></td>
+   </tr>
+   <tr>
+   <td>Tirsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Onsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Torsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Fredag</td><td></td>
+   </tr>
+   <tr>
+   <td>L&oslash;rdag</td><td></td>
+   </tr>
+   <tr>
+   <td>S&oslash;ndag</td><td></td>
+   </tr>
+   <tr>
+   <td>Xtra &aring;bent&nbsp;&nbsp;&nbsp;</td><td><!--@DealerSearchDealerXtra--></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px; padding-bottom: 6px;"><strong>Smiley</strong></td><td
+   style="padding-top: 6px; padding-bottom: 6px;"><a href="http://www.rema1000.dk/" target="_blank">Se
+   forretningens smileys her</a></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td></td><td align="right" style="padding: 10px 5px 5px 0;"><a href="javascript:history.go(-1);">Tilbage</a></td>
+   </tr>
+   </tbody>
+   </table>:00".
+   Error Location: Load Page - For Each Tag Path[52] - Extract name - Extract streetName - Extract
+   streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   Error Location Code: {<0>.<1>[51].<2>.<4>.<5>.<6>.<7>.<8>.<3>.<9>.<12>.<13>}
+
+Message Number: 53, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:48.873
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 54, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:50.473
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 55, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:24:51.843
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 56, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:01.833
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 57, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:03.183
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 58, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:04.643
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 59, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:06.093
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 60, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:09.223
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 61, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:11.523
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 62, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:13.093
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 63, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:14.513
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 64, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:22.083
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 65, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:28.493
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 66, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:29.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 67, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:31.963
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 68, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:33.443
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 69, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:34.843
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 70, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:36.333
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 71, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:37.733
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 72, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:39.243
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 73, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:40.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 74, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:42.233
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 75, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:43.593
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 76, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:45.063
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 77, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:47.273
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 78, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:49.523
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 79, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:50.873
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 80, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:52.363
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 81, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:53.793
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 82, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:55.393
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 83, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:56.853
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 84, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:58.363
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 85, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:25:59.903
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 86, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:01.473
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 87, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:02.913
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 88, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:04.413
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 89, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:05.813
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 90, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:07.343
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 91, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:08.803
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 92, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:10.273
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 93, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:11.683
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 94, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:13.183
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 95, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:14.633
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 96, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:16.103
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 97, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:17.623
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 98, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:19.083
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 99, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:20.503
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 100, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:21.953
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 101, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:23.303
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 102, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:24.793
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 103, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:26.273
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 104, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:27.873
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 105, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:29.243
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 106, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:30.783
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 107, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:32.183
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 108, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:33.823
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 109, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-22 15:26:35.253
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Return Object action. Ignoring Store object. This required attribute has not
+   been set: postCodeIdentifier.
+Additional Information:
+   ERROR REPORT
+   Report created at: Load Page - For Each Tag Path[109] - Extract name - Extract streetName -
+   Extract streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   - Extract mondayClose - Extract tuesdayOpen - Extract tuesdayClose - Extract wednesdayOpen
+   - Extract wednesdayClose - Extract thursdayOpen - Extract thursdayClose - Extract fridayOpen
+   - Extract fridayClose - Extract saturdayOpen - Extract saturdayClose - Extract sundayOpen -
+   Extract sundayClose - Extract f&lSundayOpen - Extract f&lSundayClose - Return Object
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Return Object action. Ignoring Store object. This required attribute
+   has not been set: postCodeIdentifier.
+   Error Location: Load Page - For Each Tag Path[109] - Extract name - Extract streetName - Extract
+   streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   - Extract mondayClose - Extract tuesdayOpen - Extract tuesdayClose - Extract wednesdayOpen
+   - Extract wednesdayClose - Extract thursdayOpen - Extract thursdayClose - Extract fridayOpen
+   - Extract fridayClose - Extract saturdayOpen - Extract saturdayClose - Extract sundayOpen -
+   Extract sundayClose - Extract f&lSundayOpen - Extract f&lSundayClose - Return Object
+   Error Location Code: {<0>.<1>[108].<2>.<4>.<5>.<6>.<7>.<8>.<3>.<9>.<12>.<13>.<14>.<15>.<16>.<18>.<17>.<20>.<19>.<22>.<21>.<24>.<23-
+   >.<26>.<25>.<28>.<27>.<11>}
+
+Message Number: 110, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:36.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 111, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:38.903
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 112, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:40.363
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 113, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:42.093
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 114, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:43.563
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 115, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:44.983
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 116, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:46.493
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 117, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:47.913
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 118, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:49.353
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 119, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:50.763
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 120, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:52.213
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 121, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:53.613
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 122, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:55.043
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 123, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:56.443
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 124, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-22 15:26:57.563
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Extract action. The attribute is of type Date and this text is not a valid date
+   (the format must be yyyy-mm-dd hh:mm:ss.fffffffff): "2010-01-01 <table cellPadding="0" cellSpacing="0"
+   border="0" width="100%">
+   <tbody>
+   <tr>
+   <td width="145" vAlign="top"><img src="http://www.rema1000.dk/files/billeder/rema1000/kort/default.jpg"></td><td>
+   <table width="99%" cellSpacing="0" cellPadding="0">
+   <tbody>
+   <tr>
+   <td colSpan="2" class="DealerLabel" style="padding-top: 10px;">
+   <h2 class="h2">
+   Odense, Fuglebakken
+   </h2>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>Adresse</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Postnr.</strong></td><td style="padding-bottom:
+   6px;"><!--@DealerSearchDealerZip--></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>K&oslash;bmand</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Tlf.</strong></td><td style="padding-bottom:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;" vAlign="top"><strong>&Aring;bningstider</strong></td><td
+   style="padding-top: 6px;">
+   <table cellPadding="0" cellSpacing="0" border="0">
+   <tbody>
+   <tr>
+   <td>Mandag</td><td></td>
+   </tr>
+   <tr>
+   <td>Tirsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Onsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Torsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Fredag</td><td></td>
+   </tr>
+   <tr>
+   <td>L&oslash;rdag</td><td></td>
+   </tr>
+   <tr>
+   <td>S&oslash;ndag</td><td></td>
+   </tr>
+   <tr>
+   <td>Xtra &aring;bent&nbsp;&nbsp;&nbsp;</td><td><!--@DealerSearchDealerXtra--></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px; padding-bottom: 6px;"><strong>Smiley</strong></td><td
+   style="padding-top: 6px; padding-bottom: 6px;"><a href="http://www.rema1000.dk/" target="_blank">Se
+   forretningens smileys her</a></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td></td><td align="right" style="padding: 10px 5px 5px 0;"><a href="javascript:history.go(-1);">Tilbage</a></td>
+   </tr>
+   </tbody>
+   </table>:00".
+Additional Information:
+   ERROR REPORT
+   Report created at: Load Page - For Each Tag Path[124] - Extract name - Extract streetName -
+   Extract streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Extract action. The attribute is of type Date and this text is
+   not a valid date (the format must be yyyy-mm-dd hh:mm:ss.fffffffff): "2010-01-01 <table cellPadding="0"
+   cellSpacing="0" border="0" width="100%">
+   <tbody>
+   <tr>
+   <td width="145" vAlign="top"><img src="http://www.rema1000.dk/files/billeder/rema1000/kort/default.jpg"></td><td>
+   <table width="99%" cellSpacing="0" cellPadding="0">
+   <tbody>
+   <tr>
+   <td colSpan="2" class="DealerLabel" style="padding-top: 10px;">
+   <h2 class="h2">
+   Odense, Fuglebakken
+   </h2>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>Adresse</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Postnr.</strong></td><td style="padding-bottom:
+   6px;"><!--@DealerSearchDealerZip--></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>K&oslash;bmand</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Tlf.</strong></td><td style="padding-bottom:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;" vAlign="top"><strong>&Aring;bningstider</strong></td><td
+   style="padding-top: 6px;">
+   <table cellPadding="0" cellSpacing="0" border="0">
+   <tbody>
+   <tr>
+   <td>Mandag</td><td></td>
+   </tr>
+   <tr>
+   <td>Tirsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Onsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Torsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Fredag</td><td></td>
+   </tr>
+   <tr>
+   <td>L&oslash;rdag</td><td></td>
+   </tr>
+   <tr>
+   <td>S&oslash;ndag</td><td></td>
+   </tr>
+   <tr>
+   <td>Xtra &aring;bent&nbsp;&nbsp;&nbsp;</td><td><!--@DealerSearchDealerXtra--></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px; padding-bottom: 6px;"><strong>Smiley</strong></td><td
+   style="padding-top: 6px; padding-bottom: 6px;"><a href="http://www.rema1000.dk/" target="_blank">Se
+   forretningens smileys her</a></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td></td><td align="right" style="padding: 10px 5px 5px 0;"><a href="javascript:history.go(-1);">Tilbage</a></td>
+   </tr>
+   </tbody>
+   </table>:00".
+   Error Location: Load Page - For Each Tag Path[124] - Extract name - Extract streetName - Extract
+   streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   Error Location Code: {<0>.<1>[123].<2>.<4>.<5>.<6>.<7>.<8>.<3>.<9>.<12>.<13>}
+
+Message Number: 125, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-22 15:26:58.423
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Click action. Could not load from the URL "http://www.rema1000.dk/Default.aspx?ID=83&DealerID=371".
+   Unexpected end of ZLIB input stream
+Additional Information:
+   ERROR REPORT
+   Report created at: Load Page - For Each Tag Path[125] - Extract name - Extract streetName -
+   Extract streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Click action. Could not load from the URL "http://www.rema1000.dk/Default.aspx?ID=83&DealerID=371".
+   Unexpected end of ZLIB input stream
+   Error Location: Load Page - For Each Tag Path[125] - Extract name - Extract streetName - Extract
+   streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click
+   Error Location Code: {<0>.<1>[124].<2>.<4>.<5>.<6>.<7>.<8>.<3>}
+
+Message Number: 126, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:26:59.893
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 127, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:02.063
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 128, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:03.533
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 129, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:04.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 130, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:06.413
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 131, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-22 15:27:07.473
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Extract action. The attribute is of type Date and this text is not a valid date
+   (the format must be yyyy-mm-dd hh:mm:ss.fffffffff): "2010-01-01 <table cellPadding="0" cellSpacing="0"
+   border="0" width="100%">
+   <tbody>
+   <tr>
+   <td width="145" vAlign="top"><img src="http://www.rema1000.dk/files/billeder/rema1000/kort/default.jpg"></td><td>
+   <table width="99%" cellSpacing="0" cellPadding="0">
+   <tbody>
+   <tr>
+   <td colSpan="2" class="DealerLabel" style="padding-top: 10px;">
+   <h2 class="h2">
+   Pr&aelig;st&oslash;
+   </h2>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>Adresse</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Postnr.</strong></td><td style="padding-bottom:
+   6px;"><!--@DealerSearchDealerZip--></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>K&oslash;bmand</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Tlf.</strong></td><td style="padding-bottom:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;" vAlign="top"><strong>&Aring;bningstider</strong></td><td
+   style="padding-top: 6px;">
+   <table cellPadding="0" cellSpacing="0" border="0">
+   <tbody>
+   <tr>
+   <td>Mandag</td><td></td>
+   </tr>
+   <tr>
+   <td>Tirsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Onsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Torsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Fredag</td><td></td>
+   </tr>
+   <tr>
+   <td>L&oslash;rdag</td><td></td>
+   </tr>
+   <tr>
+   <td>S&oslash;ndag</td><td></td>
+   </tr>
+   <tr>
+   <td>Xtra &aring;bent&nbsp;&nbsp;&nbsp;</td><td><!--@DealerSearchDealerXtra--></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px; padding-bottom: 6px;"><strong>Smiley</strong></td><td
+   style="padding-top: 6px; padding-bottom: 6px;"><a href="http://www.rema1000.dk/" target="_blank">Se
+   forretningens smileys her</a></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td></td><td align="right" style="padding: 10px 5px 5px 0;"><a href="javascript:history.go(-1);">Tilbage</a></td>
+   </tr>
+   </tbody>
+   </table>:00".
+Additional Information:
+   ERROR REPORT
+   Report created at: Load Page - For Each Tag Path[131] - Extract name - Extract streetName -
+   Extract streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Extract action. The attribute is of type Date and this text is
+   not a valid date (the format must be yyyy-mm-dd hh:mm:ss.fffffffff): "2010-01-01 <table cellPadding="0"
+   cellSpacing="0" border="0" width="100%">
+   <tbody>
+   <tr>
+   <td width="145" vAlign="top"><img src="http://www.rema1000.dk/files/billeder/rema1000/kort/default.jpg"></td><td>
+   <table width="99%" cellSpacing="0" cellPadding="0">
+   <tbody>
+   <tr>
+   <td colSpan="2" class="DealerLabel" style="padding-top: 10px;">
+   <h2 class="h2">
+   Pr&aelig;st&oslash;
+   </h2>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>Adresse</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Postnr.</strong></td><td style="padding-bottom:
+   6px;"><!--@DealerSearchDealerZip--></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;"><strong>K&oslash;bmand</strong></td><td style="padding-top:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-bottom: 6px;"><strong>Tlf.</strong></td><td style="padding-bottom:
+   6px;"></td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px;" vAlign="top"><strong>&Aring;bningstider</strong></td><td
+   style="padding-top: 6px;">
+   <table cellPadding="0" cellSpacing="0" border="0">
+   <tbody>
+   <tr>
+   <td>Mandag</td><td></td>
+   </tr>
+   <tr>
+   <td>Tirsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Onsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Torsdag</td><td></td>
+   </tr>
+   <tr>
+   <td>Fredag</td><td></td>
+   </tr>
+   <tr>
+   <td>L&oslash;rdag</td><td></td>
+   </tr>
+   <tr>
+   <td>S&oslash;ndag</td><td></td>
+   </tr>
+   <tr>
+   <td>Xtra &aring;bent&nbsp;&nbsp;&nbsp;</td><td><!--@DealerSearchDealerXtra--></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td class="DealerLine"></td><td class="DealerLine"></td>
+   </tr>
+   <tr>
+   <td class="DealerLabel" style="padding-top: 6px; padding-bottom: 6px;"><strong>Smiley</strong></td><td
+   style="padding-top: 6px; padding-bottom: 6px;"><a href="http://www.rema1000.dk/" target="_blank">Se
+   forretningens smileys her</a></td>
+   </tr>
+   </tbody>
+   </table>
+   </td>
+   </tr>
+   <tr>
+   <td></td><td align="right" style="padding: 10px 5px 5px 0;"><a href="javascript:history.go(-1);">Tilbage</a></td>
+   </tr>
+   </tbody>
+   </table>:00".
+   Error Location: Load Page - For Each Tag Path[131] - Extract name - Extract streetName - Extract
+   streetBuildingIdentifier - Extract districtSubDivisionIdentifier - Extract postCodeIdentifier
+   - Extract districtName - Click - Extract contactPerson - Extract telephone - Extract mondayOpen
+   Error Location Code: {<0>.<1>[130].<2>.<4>.<5>.<6>.<7>.<8>.<3>.<9>.<12>.<13>}
+
+Message Number: 132, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:08.963
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 133, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:10.353
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 134, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:11.823
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 135, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:13.263
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 136, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:14.713
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 137, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:16.103
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 138, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:17.563
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 139, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:18.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 140, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:20.493
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 141, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:21.853
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 142, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:23.343
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 143, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:24.793
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 144, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:26.233
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 145, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:27.603
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 146, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:29.043
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 147, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:30.403
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 148, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:31.823
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 149, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:33.223
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 150, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:34.703
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 151, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:36.073
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 152, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:37.543
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 153, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:38.933
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 154, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:40.423
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 155, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:41.793
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 156, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:43.863
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 157, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:45.283
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 158, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:46.673
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 159, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:48.073
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 160, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:49.563
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 161, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:50.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 162, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:52.413
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 163, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:53.803
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 164, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:55.243
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 165, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:56.803
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 166, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:58.253
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 167, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:27:59.673
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 168, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:01.123
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 169, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:02.483
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 170, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:03.953
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 171, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:05.423
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 172, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:06.843
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 173, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:08.263
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 174, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:09.703
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 175, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:11.063
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 176, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:12.563
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 177, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:13.953
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 178, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:15.463
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 179, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:16.833
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 180, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:18.323
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 181, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:19.823
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 182, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:21.303
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 183, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:22.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 184, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:24.173
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 185, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:25.563
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 186, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:27.053
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 187, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:28.498
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 188, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:29.978
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 189, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:31.355
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 190, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:32.828
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 191, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:34.278
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 192, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:35.738
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 193, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:37.108
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 194, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:39.298
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 195, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:40.708
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 196, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:42.198
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 197, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:43.608
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 198, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:45.048
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 199, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:46.428
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 200, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:47.978
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 201, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:49.418
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 202, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:51.648
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 203, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:53.058
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 204, Message Type: Object_Handling_Info, Message Created: 2010-12-22 15:28:53.068
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresRema1000DK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Store summary: Total: 198, ignored: 1.
+

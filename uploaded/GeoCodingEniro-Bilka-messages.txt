@@ -1,0 +1,80 @@
+Message Number: 1, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:40:43.722
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 2, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:40:45.672
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 3, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:40:47.222
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 4, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:40:51.822
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 5, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:40:53.592
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 6, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:40:55.772
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 7, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:40:57.732
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 8, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:00.272
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 9, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:04.172
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 10, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:07.102
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 11, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:08.642
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 12, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:10.242
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 13, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:11.692
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 14, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:13.282
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 15, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:14.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 16, Message Type: Object_Handling_Info, Message Created: 2010-12-21 18:41:14.693
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Location summary: Total: 15, ignored: 0.
+

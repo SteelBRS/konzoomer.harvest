@@ -1,0 +1,19 @@
+Processing: GeoCodingEniro.part2.zip
+Unzipping: GeoCodingEniro.part2.xml
+-!- multiple stores at same address. Store.id=170010, Store.chainID=5
+-!- multiple stores at same address. Store.id=219004, Store.chainID=2
+
+-!- multiple stores at same address. Store.id=190005, Store.chainID=5
+-!- multiple stores at same address. Store.id=226008, Store.chainID=4
+
+-!- multiple stores at same address. Store.id=149015, Store.chainID=5
+-!- multiple stores at same address. Store.id=231006, Store.chainID=2
+
+-!- multiple stores at same address. Store.id=192013, Store.chainID=5
+-!- multiple stores at same address. Store.id=243002, Store.chainID=4
+
+-!- multiple stores at same address. Store.id=177013, Store.chainID=5
+-!- multiple stores at same address. Store.id=261004, Store.chainID=2
+
+Locations: 608
+Updated Stores: 613

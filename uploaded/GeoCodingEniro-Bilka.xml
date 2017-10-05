@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Location>
+    <streetName>Høegh Guldbergs Gade</streetName>
+    <streetBuildingIdentifier>10</streetBuildingIdentifier>
+    <postCodeIdentifier>8700</postCodeIdentifier>
+    <districtName>Horsens</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.85824412</latitude>
+    <longitude>9.85340613</longitude>
+  </Location>
+  <Location>
+    <streetName>Grundtvigs Allé</streetName>
+    <streetBuildingIdentifier>195</streetBuildingIdentifier>
+    <postCodeIdentifier>6400</postCodeIdentifier>
+    <districtName>Sønderborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>54.9228406</latitude>
+    <longitude>9.80790432</longitude>
+  </Location>
+  <Location>
+    <streetName>Solkilde Alle</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>7100</postCodeIdentifier>
+    <districtName>Vejle</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.72470773</latitude>
+    <longitude>9.58121296</longitude>
+  </Location>
+  <Location>
+    <streetName>Stormgade</streetName>
+    <streetBuildingIdentifier>157</streetBuildingIdentifier>
+    <postCodeIdentifier>6715</postCodeIdentifier>
+    <districtName>Esbjerg N</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.51109325</latitude>
+    <longitude>8.4563953</longitude>
+  </Location>
+  <Location>
+    <streetName>Nyholmvej</streetName>
+    <streetBuildingIdentifier>20</streetBuildingIdentifier>
+    <postCodeIdentifier>7500</postCodeIdentifier>
+    <districtName>Holstebro</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.37724119</latitude>
+    <longitude>8.62172171</longitude>
+  </Location>
+  <Location>
+    <streetName>Over Bølgen</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>2670</postCodeIdentifier>
+    <districtName>Greve</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.59866793</latitude>
+    <longitude>12.32558285</longitude>
+  </Location>
+  <Location>
+    <streetName>Holstebrovej</streetName>
+    <streetBuildingIdentifier>79</streetBuildingIdentifier>
+    <postCodeIdentifier>8800</postCodeIdentifier>
+    <districtName>Viborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.44656034</latitude>
+    <longitude>9.36785486</longitude>
+  </Location>
+  <Location>
+    <streetName>Ishøj Lille Torv</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>2635</postCodeIdentifier>
+    <districtName>Ishøj</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.61434829</latitude>
+    <longitude>12.35460052</longitude>
+  </Location>
+  <Location>
+    <streetName>Skovvangen</streetName>
+    <streetBuildingIdentifier>40</streetBuildingIdentifier>
+    <postCodeIdentifier>6000</postCodeIdentifier>
+    <districtName>Kolding</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.51193307</latitude>
+    <longitude>9.4592149</longitude>
+  </Location>
+  <Location>
+    <streetName>Næstved Storcenter</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>4700</postCodeIdentifier>
+    <districtName>Næstved</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.25374602</latitude>
+    <longitude>11.78363218</longitude>
+  </Location>
+  <Location>
+    <streetName>Niels Bohrs Alle</streetName>
+    <streetBuildingIdentifier>150</streetBuildingIdentifier>
+    <postCodeIdentifier>5230</postCodeIdentifier>
+    <districtName>Odense</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.37704409</latitude>
+    <longitude>10.43200629</longitude>
+  </Location>
+  <Location>
+    <streetName>Arne Jacobsens Alle</streetName>
+    <streetBuildingIdentifier>24</streetBuildingIdentifier>
+    <postCodeIdentifier>2300</postCodeIdentifier>
+    <districtName>København S</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.63100291</latitude>
+    <longitude>12.57950295</longitude>
+  </Location>
+  <Location>
+    <streetName>Hobrovej</streetName>
+    <streetBuildingIdentifier>450</streetBuildingIdentifier>
+    <postCodeIdentifier>9200</postCodeIdentifier>
+    <districtName>Aalborg Sv</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>57.00467856</latitude>
+    <longitude>9.87618737</longitude>
+  </Location>
+  <Location>
+    <streetName>Idagårdsvej</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>4200</postCodeIdentifier>
+    <districtName>Slagelse</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>55.39048712</latitude>
+    <longitude>11.35524551</longitude>
+  </Location>
+  <Location>
+    <streetName>Agerøvej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>8381</postCodeIdentifier>
+    <districtName>Tilst</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.18239144</latitude>
+    <longitude>10.10492104</longitude>
+  </Location>
+</objects>

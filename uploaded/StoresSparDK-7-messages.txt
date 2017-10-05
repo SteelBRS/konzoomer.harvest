@@ -1,0 +1,255 @@
+Message Number: 1, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.923
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 2, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.923
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 3, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.933
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 4, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 5, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.943
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 6, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.953
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 7, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.953
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 8, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.963
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 9, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.963
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 10, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.973
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 11, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.973
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 12, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.983
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 13, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.983
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 14, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.993
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 15, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:30.993
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 16, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.003
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 17, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.003
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 18, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.013
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 19, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.013
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 20, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.023
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 21, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.023
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 22, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.033
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 23, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.033
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 24, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.033
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 25, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.043
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 26, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.053
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 27, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.053
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 28, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.053
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 29, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.063
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 30, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.063
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 31, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.073
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 32, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.073
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 33, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.073
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 34, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.083
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 35, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.083
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 36, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.093
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 37, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.093
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 38, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.093
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 39, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.103
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 40, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.103
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 41, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.113
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 42, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.113
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 43, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.113
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 44, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.123
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 45, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.123
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 46, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.133
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 47, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.133
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 48, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.133
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 49, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.143
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 50, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.143
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 51, Message Type: Object_Handling_Info, Message Created: 2010-12-25 23:19:31.143
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresSparDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Store summary: Total: 50, ignored: 0.
+

@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Poulstrup</name>
+    <streetName>Hovedgaden</streetName>
+    <streetBuildingIdentifier>32</streetBuildingIdentifier>
+    <postCodeIdentifier>9760</postCodeIdentifier>
+    <districtName>Vrå</districtName>
+    <districtSubDivisionIdentifier>Poulstrup</districtSubDivisionIdentifier>
+    <contactPerson>Lya Kokholm</contactPerson>
+    <telephone>60737894</telephone>
+    <telefax></telefax>
+    <email>poulstrup@spar.dk</email>
+    <website>http://www.spar.dk/poulstrup</website>
+    <latitude>57.3482247</latitude>
+    <longitude>10.0177125</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 17:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 17:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Ærøskøbing</name>
+    <streetName>Torvet</streetName>
+    <streetBuildingIdentifier>5</streetBuildingIdentifier>
+    <postCodeIdentifier>5970</postCodeIdentifier>
+    <districtName>Ærøskøbing</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Jan Preben Malec</contactPerson>
+    <telephone>62522037</telephone>
+    <telefax>68621637</telefax>
+    <email>aero@spar.dk</email>
+    <website>http://www.spar.dk/aero</website>
+    <latitude>54.8881177</latitude>
+    <longitude>10.4111238</longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 14:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 10:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 15:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Sundby</name>
+    <streetName>Sundbyvej</streetName>
+    <streetBuildingIdentifier>141</streetBuildingIdentifier>
+    <postCodeIdentifier>7950</postCodeIdentifier>
+    <districtName>Erslev</districtName>
+    <districtSubDivisionIdentifier>Sundby</districtSubDivisionIdentifier>
+    <contactPerson>Lærke Mogensen Frøslev</contactPerson>
+    <telephone>97746010</telephone>
+    <telefax>97746018</telefax>
+    <email>sundby.erslev@spar.dk</email>
+    <website>http://www.spar.dk/sundby-erslev</website>
+    <latitude>56.87882</latitude>
+    <longitude>8.657511</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 15:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 15:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Fanø</name>
+    <streetName>Strandvejen</streetName>
+    <streetBuildingIdentifier>27</streetBuildingIdentifier>
+    <postCodeIdentifier>6720</postCodeIdentifier>
+    <districtName>Fanø</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>V/Tempo Super Spar I/S</contactPerson>
+    <telephone>75163120</telephone>
+    <telefax>75166406</telefax>
+    <email>fano@spar.dk</email>
+    <website>http://www.spar.dk/fano</website>
+    <latitude>55.4384689</latitude>
+    <longitude>8.393642</longitude>
+    <mondayOpen>2010-01-01 06:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 06:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 06:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 06:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 06:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 06:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 19:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 06:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 19:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Lønstrup</name>
+    <streetName>Strandvejen</streetName>
+    <streetBuildingIdentifier>82</streetBuildingIdentifier>
+    <postCodeIdentifier>9800</postCodeIdentifier>
+    <districtName>Hjørring</districtName>
+    <districtSubDivisionIdentifier>Lønstrup</districtSubDivisionIdentifier>
+    <contactPerson>Nedergaard &amp;Amtoft-Christensen</contactPerson>
+    <telephone>98960029</telephone>
+    <telefax>98969929</telefax>
+    <email>lonstrup@spar.dk</email>
+    <website>http://www.spar.dk/lonstrup</website>
+    <latitude>57.4721025</latitude>
+    <longitude>9.7971955</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Nørager</name>
+    <streetName>Munkehusevej</streetName>
+    <streetBuildingIdentifier>7</streetBuildingIdentifier>
+    <postCodeIdentifier>8961</postCodeIdentifier>
+    <districtName>Allingåbro</districtName>
+    <districtSubDivisionIdentifier>Nørager</districtSubDivisionIdentifier>
+    <contactPerson>Købmanden I Nørager Aps</contactPerson>
+    <telephone>86486326</telephone>
+    <telefax>86487442</telefax>
+    <email>allingaabro@spar.dk</email>
+    <website>http://www.spar.dk/allingaabro</website>
+    <latitude>56.477258934449075</latitude>
+    <longitude>10.505075454711914</longitude>
+    <mondayOpen>2010-01-01 06:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 22:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 06:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 22:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 06:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 22:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 06:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 22:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 06:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 22:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 06:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 22:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 06:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 22:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Brabrand</name>
+    <streetName>Hougårdsvej</streetName>
+    <streetBuildingIdentifier>66</streetBuildingIdentifier>
+    <postCodeIdentifier>8220</postCodeIdentifier>
+    <districtName>Brabrand</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Amena &amp; Idris Nezam</contactPerson>
+    <telephone>86260290</telephone>
+    <telefax>86260490</telefax>
+    <email>brabrand@spar.dk</email>
+    <website>http://www.spar.dk/brabrabd</website>
+    <latitude>56.150545842995186</latitude>
+    <longitude>10.091371536254883</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Asaa</name>
+    <streetName>Sæbyvej</streetName>
+    <streetBuildingIdentifier>3</streetBuildingIdentifier>
+    <postCodeIdentifier>9340</postCodeIdentifier>
+    <districtName>Asaa</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Nymann Super Spar Aps</contactPerson>
+    <telephone>98851253</telephone>
+    <telefax>98851970</telefax>
+    <email>asaa@spar.dk</email>
+    <website>http://www.spar.dk/asaa</website>
+    <latitude>57.1487615</latitude>
+    <longitude>10.404815</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 17:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 17:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Grenå</name>
+    <streetName>Trekanten</streetName>
+    <streetBuildingIdentifier>46</streetBuildingIdentifier>
+    <postCodeIdentifier>8500</postCodeIdentifier>
+    <districtName>Grenå</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Henrik Nørgaard</contactPerson>
+    <telephone>86322592</telephone>
+    <telefax>86309658</telefax>
+    <email>grenaa@spar.dk</email>
+    <website>http://www.spar.dk/grenaa</website>
+    <latitude>56.3916741</latitude>
+    <longitude>10.8776076</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Manna</name>
+    <streetName>Bredningen</streetName>
+    <streetBuildingIdentifier>101</streetBuildingIdentifier>
+    <postCodeIdentifier>9700</postCodeIdentifier>
+    <districtName>Brønderslev</districtName>
+    <districtSubDivisionIdentifier>Manna</districtSubDivisionIdentifier>
+    <contactPerson>Ann Schøn</contactPerson>
+    <telephone>98887028</telephone>
+    <telefax>98887678</telefax>
+    <email>manna@spar.dk</email>
+    <website>http://www.spar.dk/manna</website>
+    <latitude>57.2841506</latitude>
+    <longitude>9.813813</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Kjellerup</name>
+    <streetName>Blichersvej</streetName>
+    <streetBuildingIdentifier>13</streetBuildingIdentifier>
+    <postCodeIdentifier>8620</postCodeIdentifier>
+    <districtName>Kjellerup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Jan Matthiesen</contactPerson>
+    <telephone>86880020</telephone>
+    <telefax>86880541</telefax>
+    <email>thorning@spar.dk</email>
+    <website>http://www.spar.dk/kjellerup</website>
+    <latitude>56.2861122</latitude>
+    <longitude>9.3313419</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Munkebo</name>
+    <streetName>Bycentret</streetName>
+    <streetBuildingIdentifier>208</streetBuildingIdentifier>
+    <postCodeIdentifier>5330</postCodeIdentifier>
+    <districtName>Munkebo</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Super Spar Munkebo Aps</contactPerson>
+    <telephone>72170089</telephone>
+    <telefax></telefax>
+    <email>munkebo@spar.dk</email>
+    <website>http://www.spar.dk/munkebo</website>
+    <latitude>55.4603518</latitude>
+    <longitude>10.5617156</longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Øster Doense</name>
+    <streetName>Storegade</streetName>
+    <streetBuildingIdentifier>27</streetBuildingIdentifier>
+    <postCodeIdentifier>9500</postCodeIdentifier>
+    <districtName>Hobro</districtName>
+    <districtSubDivisionIdentifier>Øster Doense</districtSubDivisionIdentifier>
+    <contactPerson>Jette Jensen</contactPerson>
+    <telephone>98554016</telephone>
+    <telefax></telefax>
+    <email>oster.doense@spar.dk</email>
+    <website>http://www.spar.dk/oster-doense</website>
+    <latitude>56.709558</latitude>
+    <longitude>9.8394068</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 12:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 12:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Mesinge</name>
+    <streetName>Mesinge Bygade</streetName>
+    <streetBuildingIdentifier>54</streetBuildingIdentifier>
+    <postCodeIdentifier>5370</postCodeIdentifier>
+    <districtName>Mesinge</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Carsten Osther</contactPerson>
+    <telephone>65341011</telephone>
+    <telefax>65342853</telefax>
+    <email>mesinge@spar.dk</email>
+    <website>http://www.spar.dk/mesinge</website>
+    <latitude>55.5012189</latitude>
+    <longitude>10.6491654</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Arden</name>
+    <streetName>Bytorvet</streetName>
+    <streetBuildingIdentifier>18</streetBuildingIdentifier>
+    <postCodeIdentifier>9510</postCodeIdentifier>
+    <districtName>Arden</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Lars Lorentzen</contactPerson>
+    <telephone>98561425</telephone>
+    <telefax>98561254</telefax>
+    <email>arden@spar.dk</email>
+    <website>http://www.spar.dk/arden</website>
+    <latitude>56.7696732</latitude>
+    <longitude>9.8589915</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Frederiks</name>
+    <streetName>Søndergade</streetName>
+    <streetBuildingIdentifier>10</streetBuildingIdentifier>
+    <postCodeIdentifier>7470</postCodeIdentifier>
+    <districtName>Karup J</districtName>
+    <districtSubDivisionIdentifier>Frederiks</districtSubDivisionIdentifier>
+    <contactPerson>Anne Mette Pedersen</contactPerson>
+    <telephone>86661320</telephone>
+    <telefax>86662225</telefax>
+    <email>frederiks@spar.dk</email>
+    <website>http://www.spar.dk/frederiks</website>
+    <latitude>56.3389155</latitude>
+    <longitude>9.2534921</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Tved</name>
+    <streetName>Tvedvej</streetName>
+    <streetBuildingIdentifier>201</streetBuildingIdentifier>
+    <postCodeIdentifier>5700</postCodeIdentifier>
+    <districtName>Svendborg</districtName>
+    <districtSubDivisionIdentifier>Tved</districtSubDivisionIdentifier>
+    <contactPerson>Super Spar Tved Aps</contactPerson>
+    <telephone>62211771</telephone>
+    <telefax>62224063</telefax>
+    <email>tved@spar.dk</email>
+    <website>http://www.spar.dk/tved</website>
+    <latitude>55.0865901</latitude>
+    <longitude>10.6216662</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 16:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 16:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Ans By</name>
+    <streetName>Søndermarksgade</streetName>
+    <streetBuildingIdentifier>10</streetBuildingIdentifier>
+    <postCodeIdentifier>8643</postCodeIdentifier>
+    <districtName>Ans By</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Super Spar Ans A/S J. Pedersen</contactPerson>
+    <telephone>86870854</telephone>
+    <telefax>86870247</telefax>
+    <email>ans@spar.dk</email>
+    <website>http://www.spar.dk/ans</website>
+    <latitude>56.3065493</latitude>
+    <longitude>9.5939307</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Nyborg</name>
+    <streetName>Knudshovedvej</streetName>
+    <streetBuildingIdentifier>38</streetBuildingIdentifier>
+    <postCodeIdentifier>5800</postCodeIdentifier>
+    <districtName>Nyborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Shridharan Ponnambalam</contactPerson>
+    <telephone>65310545</telephone>
+    <telefax>65303169</telefax>
+    <email>nyborg.knudshovedvej@spar.dk</email>
+    <website>http://www.spar.dk/nyborg-knudshovedvej</website>
+    <latitude>55.3073652</latitude>
+    <longitude>10.8026364</longitude>
+    <mondayOpen>2010-01-01 06:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 06:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 06:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 06:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 06:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 15:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 15:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Sillerslev</name>
+    <streetName>Staghøjmøllevej</streetName>
+    <streetBuildingIdentifier>23</streetBuildingIdentifier>
+    <postCodeIdentifier>7990</postCodeIdentifier>
+    <districtName>Øster-Assels</districtName>
+    <districtSubDivisionIdentifier>Sillerslev</districtSubDivisionIdentifier>
+    <contactPerson>Charlotte Pipper</contactPerson>
+    <telephone>97764583</telephone>
+    <telefax>97764593</telefax>
+    <email>sillerslev@spar.dk</email>
+    <website>http://www.spar.dk/sillerslev</website>
+    <latitude>56.6946905</latitude>
+    <longitude>8.729187</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Rømø</name>
+    <streetName>Havnebyvej</streetName>
+    <streetBuildingIdentifier>25</streetBuildingIdentifier>
+    <postCodeIdentifier>6792</postCodeIdentifier>
+    <districtName>Rømø</districtName>
+    <districtSubDivisionIdentifier>Rømø</districtSubDivisionIdentifier>
+    <contactPerson>Spar Rømø Aps Anders Paulsen</contactPerson>
+    <telephone>74755113</telephone>
+    <telefax>74755126</telefax>
+    <email>romo@spar.dk</email>
+    <website>http://www.spar.dk/romo</website>
+    <latitude>55.1421598</latitude>
+    <longitude>8.5468349</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 19:00:00.0</saturdayClose>
+    <sundayOpen></sundayOpen>
+    <sundayClose></sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Odense Nø</name>
+    <streetName>Slåenhaven</streetName>
+    <streetBuildingIdentifier>8</streetBuildingIdentifier>
+    <postCodeIdentifier>5240</postCodeIdentifier>
+    <districtName>Odense Nø</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Spar Slåenhaven Aps</contactPerson>
+    <telephone>66102630</telephone>
+    <telefax>66102645</telefax>
+    <email>slaaenhaven.odense@spar.dk</email>
+    <website>http://www.spar.dk/slaaenhaven-odense</website>
+    <latitude>55.4179047</latitude>
+    <longitude>10.427094</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 16:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 16:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Vridsted</name>
+    <streetName>Egebjergvej</streetName>
+    <streetBuildingIdentifier>4</streetBuildingIdentifier>
+    <postCodeIdentifier>7800</postCodeIdentifier>
+    <districtName>Skive</districtName>
+    <districtSubDivisionIdentifier>Vridsted</districtSubDivisionIdentifier>
+    <contactPerson>Morten Pedersen</contactPerson>
+    <telephone>97547012</telephone>
+    <telefax>97547117</telefax>
+    <email>vridsted@spar.dk</email>
+    <website>http://www.spar.dk/vridsted</website>
+    <latitude>56.4429772</latitude>
+    <longitude>9.0063764</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:30:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:30:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:30:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:30:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:30:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 14:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 11:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Ølgod</name>
+    <streetName>Torvet</streetName>
+    <streetBuildingIdentifier>8</streetBuildingIdentifier>
+    <postCodeIdentifier>6870</postCodeIdentifier>
+    <districtName>Ølgod</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Torvets Købmand 2006 Aps</contactPerson>
+    <telephone>75244011</telephone>
+    <telefax>75244790</telefax>
+    <email>olgod@spar.dk</email>
+    <website>http://www.spar.dk/olgod</website>
+    <latitude>55.8074938</latitude>
+    <longitude>8.6193534</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Rostrup</name>
+    <streetName>Lundgårdsvej</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>9510</postCodeIdentifier>
+    <districtName>Arden</districtName>
+    <districtSubDivisionIdentifier>Rostrup</districtSubDivisionIdentifier>
+    <contactPerson>Rostrup Dagligvarebutik</contactPerson>
+    <telephone>98566003</telephone>
+    <telefax>98566106</telefax>
+    <email>rostrup@spar.dk</email>
+    <website>http://www.spar.dk/rostrup</website>
+    <latitude>56.7321522</latitude>
+    <longitude>9.9311815</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 17:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 17:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Ramsing</name>
+    <streetName>Kirke Alle</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>7860</postCodeIdentifier>
+    <districtName>Spøttrup</districtName>
+    <districtSubDivisionIdentifier>Ramsing</districtSubDivisionIdentifier>
+    <contactPerson>Helle Margrethe Rasmussen</contactPerson>
+    <telephone>97566022</telephone>
+    <telefax>97566115</telefax>
+    <email>ramsing@spar.dk</email>
+    <website>http://www.spar.dk/ramsing</website>
+    <latitude>56.5963727</latitude>
+    <longitude>8.8417359</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:30:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:30:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:30:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:30:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:30:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:30:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:10:00.0</sundayOpen>
+    <sundayClose>2010-01-01 18:30:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Stenstrup</name>
+    <streetName>Assensvej</streetName>
+    <streetBuildingIdentifier>46 Kirkeby</streetBuildingIdentifier>
+    <postCodeIdentifier>5771</postCodeIdentifier>
+    <districtName>Stenstrup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Liselotte Højby Simonsen</contactPerson>
+    <telephone>62261177</telephone>
+    <telefax>62261131</telefax>
+    <email>kirkeby@spar.dk</email>
+    <website>http://www.spar.dk/kirkeby</website>
+    <latitude>55.1141664</latitude>
+    <longitude>10.5291624</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 13:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 09:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 12:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Rynkeby</name>
+    <streetName>Bygaden</streetName>
+    <streetBuildingIdentifier>56</streetBuildingIdentifier>
+    <postCodeIdentifier>5350</postCodeIdentifier>
+    <districtName>Rynkeby</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Majbritt Solvang &amp; Søren Kragh</contactPerson>
+    <telephone>65391094</telephone>
+    <telefax>65391786</telefax>
+    <email>rynkeby@spar.dk</email>
+    <website>http://www.spar.dk/rynkeby</website>
+    <latitude>55.40018314716576</latitude>
+    <longitude>10.61281442642212</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Ribe</name>
+    <streetName>Tangevej</streetName>
+    <streetBuildingIdentifier>28</streetBuildingIdentifier>
+    <postCodeIdentifier>6760</postCodeIdentifier>
+    <districtName>Ribe</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Danny Svendsen</contactPerson>
+    <telephone>75420599</telephone>
+    <telefax>75422899</telefax>
+    <email>ribe.tangevej@spar.dk</email>
+    <website>http://www.spar.dk/ribe-tangevej</website>
+    <latitude>55.3274326</latitude>
+    <longitude>8.7831201</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Biersted</name>
+    <streetName>Stationsvej</streetName>
+    <streetBuildingIdentifier>27</streetBuildingIdentifier>
+    <postCodeIdentifier>9440</postCodeIdentifier>
+    <districtName>Aabybro</districtName>
+    <districtSubDivisionIdentifier>Biersted</districtSubDivisionIdentifier>
+    <contactPerson>Allan Stær</contactPerson>
+    <telephone>98268001</telephone>
+    <telefax>98268910</telefax>
+    <email>biersted@spar.dk</email>
+    <website>http://www.spar.dk/biersted</website>
+    <latitude>57.1467733</latitude>
+    <longitude>9.8068469</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 19:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 19:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Skallebæk</name>
+    <streetName>Varmingvej</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>6760</postCodeIdentifier>
+    <districtName>Ribe</districtName>
+    <districtSubDivisionIdentifier>Skallebæk</districtSubDivisionIdentifier>
+    <contactPerson>Seem Sogn Invest Aps</contactPerson>
+    <telephone>75441008</telephone>
+    <telefax>75441016</telefax>
+    <email>skallebak@spar.dk</email>
+    <website>http://www.spar.dk/skallebak</website>
+    <latitude>55.308216</latitude>
+    <longitude>8.846902</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 17:30:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 17:30:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 17:30:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 17:30:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 17:30:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 14:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 14:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Over Jerstal</name>
+    <streetName>Hovedg. Øst</streetName>
+    <streetBuildingIdentifier>65</streetBuildingIdentifier>
+    <postCodeIdentifier>6500</postCodeIdentifier>
+    <districtName>Vojens</districtName>
+    <districtSubDivisionIdentifier>Over Jerstal</districtSubDivisionIdentifier>
+    <contactPerson>Mette Schulz</contactPerson>
+    <telephone>74547203</telephone>
+    <telefax>74542279</telefax>
+    <email>o.jerstal@spar.dk</email>
+    <website>http://www.spar.dk/o-jerstal</website>
+    <latitude>55.1971694</latitude>
+    <longitude>9.3040188</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 17:30:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 17:30:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 17:30:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 17:30:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 17:30:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 17:30:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 17:30:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>15</chainID>
+    <name>EUROSPAR Gjellerup</name>
+    <streetName>Præstehaven</streetName>
+    <streetBuildingIdentifier>22</streetBuildingIdentifier>
+    <postCodeIdentifier>7400</postCodeIdentifier>
+    <districtName>Herning</districtName>
+    <districtSubDivisionIdentifier>Gjellerup</districtSubDivisionIdentifier>
+    <contactPerson>Ss Gjellerup Aps</contactPerson>
+    <telephone>97116517</telephone>
+    <telefax>97118940</telefax>
+    <email>gjellerup@spar.dk</email>
+    <website>http://www.spar.dk/gjellerup</website>
+    <latitude>56.1468363</latitude>
+    <longitude>9.0457518</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Grenå</name>
+    <streetName>Fuglevænget</streetName>
+    <streetBuildingIdentifier>39</streetBuildingIdentifier>
+    <postCodeIdentifier>8500</postCodeIdentifier>
+    <districtName>Grenå</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Lone Schmidt</contactPerson>
+    <telephone>86322044</telephone>
+    <telefax>86327869</telefax>
+    <email>fuglevanget@spar.dk</email>
+    <website>http://www.spar.dk/fuglevanget</website>
+    <latitude>56.4073788</latitude>
+    <longitude>10.8795614</longitude>
+    <mondayOpen>2010-01-01 06:45:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 06:45:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 06:45:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 06:45:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 06:45:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 06:45:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 06:45:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Felsted</name>
+    <streetName>Østergade</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>6200</postCodeIdentifier>
+    <districtName>Aabenraa</districtName>
+    <districtSubDivisionIdentifier>Felsted</districtSubDivisionIdentifier>
+    <contactPerson>Supermarked Felsted Aps</contactPerson>
+    <telephone>74685109</telephone>
+    <telefax>74685179</telefax>
+    <email>felsted@spar.dk</email>
+    <website>http://www.spar.dk/felsted</website>
+    <latitude>54.979389</latitude>
+    <longitude>9.4982153</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 16:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 16:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Horsens</name>
+    <streetName>Stensballe Strandvej</streetName>
+    <streetBuildingIdentifier>94</streetBuildingIdentifier>
+    <postCodeIdentifier>8700</postCodeIdentifier>
+    <districtName>Horsens</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Jens Christian Sørensen</contactPerson>
+    <telephone>75657106</telephone>
+    <telefax>75657104</telefax>
+    <email>stensballe@spar.dk</email>
+    <website>http://www.spar.dk/stensballe</website>
+    <latitude>55.8635598</latitude>
+    <longitude>9.9162677</longitude>
+    <mondayOpen>2010-01-01 06:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 21:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 06:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 21:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 06:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 21:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 06:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 21:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 06:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 21:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 06:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 21:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 06:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 21:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Sahl</name>
+    <streetName>Frisholtvej</streetName>
+    <streetBuildingIdentifier>51</streetBuildingIdentifier>
+    <postCodeIdentifier>8850</postCodeIdentifier>
+    <districtName>Bjerringbro</districtName>
+    <districtSubDivisionIdentifier>Sahl</districtSubDivisionIdentifier>
+    <contactPerson>Lis Nielsen</contactPerson>
+    <telephone>86681603</telephone>
+    <telefax>86681603</telefax>
+    <email>sahl@spar.dk</email>
+    <website>http://www.spar.dk/sahl</website>
+    <latitude>56.3375353</latitude>
+    <longitude>9.6392901</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 14:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Kolind</name>
+    <streetName>Mejerivej</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>8560</postCodeIdentifier>
+    <districtName>Kolind</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Spar Danmark A/S</contactPerson>
+    <telephone>86391216</telephone>
+    <telefax>86392416</telefax>
+    <email>kolind@spar.dk</email>
+    <website>http://www.spar.dk/kolind</website>
+    <latitude>56.361304002410066</latitude>
+    <longitude>10.586185455322266</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Esbjerg</name>
+    <streetName>Kronprinsensgade</streetName>
+    <streetBuildingIdentifier>99</streetBuildingIdentifier>
+    <postCodeIdentifier>6700</postCodeIdentifier>
+    <districtName>Esbjerg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Van Minh Tran</contactPerson>
+    <telephone>75125007</telephone>
+    <telefax></telefax>
+    <email>esbjerg.kronprinsensgade@spar.dk</email>
+    <website>http://www.spar.dk/esbjerg-kronprinsensgade</website>
+    <latitude>55.4740894</latitude>
+    <longitude>8.4477486</longitude>
+    <mondayOpen>2010-01-01 09:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 20:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 09:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 20:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 09:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 20:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 09:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 20:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 09:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 20:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 09:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 20:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 10:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 20:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Bjerringbro</name>
+    <streetName>Tange Søvej</streetName>
+    <streetBuildingIdentifier>4</streetBuildingIdentifier>
+    <postCodeIdentifier>8850</postCodeIdentifier>
+    <districtName>Bjerringbro</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Tange Købmandsgaard Aps</contactPerson>
+    <telephone>86658380</telephone>
+    <telefax>35116611</telefax>
+    <email>tange@spar.dk</email>
+    <website>http://www.spar.dk/tange</website>
+    <latitude>56.3519447</latitude>
+    <longitude>9.5873558</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 17:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 13:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Voldum</name>
+    <streetName>Voldum Rudvej</streetName>
+    <streetBuildingIdentifier>17</streetBuildingIdentifier>
+    <postCodeIdentifier>8370</postCodeIdentifier>
+    <districtName>Hadsten</districtName>
+    <districtSubDivisionIdentifier>Voldum</districtSubDivisionIdentifier>
+    <contactPerson>Seno I/S</contactPerson>
+    <telephone>86491266</telephone>
+    <telefax>86491152</telefax>
+    <email>voldum@spar.dk</email>
+    <website>http://www.spar.dk/voldum</website>
+    <latitude>56.3649493</latitude>
+    <longitude>10.1670687</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:30:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:30:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:30:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:30:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:30:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 17:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 17:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Sejerslev</name>
+    <streetName>Sejersvej</streetName>
+    <streetBuildingIdentifier>26</streetBuildingIdentifier>
+    <postCodeIdentifier>7900</postCodeIdentifier>
+    <districtName>Nykøbing M</districtName>
+    <districtSubDivisionIdentifier>Sejerslev</districtSubDivisionIdentifier>
+    <contactPerson>Anette Kjær Pedersen</contactPerson>
+    <telephone>97751005</telephone>
+    <telefax>96694568</telefax>
+    <email>sejerslav1@spar.dk</email>
+    <website>http://www.spar.dk/sejerslav1</website>
+    <latitude>56.9219285</latitude>
+    <longitude>8.8663645</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 18:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Hald</name>
+    <streetName>Ørslev Klostervej</streetName>
+    <streetBuildingIdentifier>107</streetBuildingIdentifier>
+    <postCodeIdentifier>7840</postCodeIdentifier>
+    <districtName>Højslev</districtName>
+    <districtSubDivisionIdentifier>Hald</districtSubDivisionIdentifier>
+    <contactPerson>Niels Chr. &amp; Jan Terman Würtz</contactPerson>
+    <telephone>97538003</telephone>
+    <telefax>97538010</telefax>
+    <email>hald@spar.dk</email>
+    <website>http://www.spar.dk/hald</website>
+    <latitude>56.59616855487166</latitude>
+    <longitude>9.19654369354248</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 19:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 19:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Sønderborg</name>
+    <streetName>Grundtvigs Alle</streetName>
+    <streetBuildingIdentifier>95</streetBuildingIdentifier>
+    <postCodeIdentifier>6400</postCodeIdentifier>
+    <districtName>Sønderborg</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Birthe Struck</contactPerson>
+    <telephone>74423885</telephone>
+    <telefax>74429081</telefax>
+    <email>sonderborg@spar.dk</email>
+    <website>http://www.spar.dk/sonderborg</website>
+    <latitude>54.9034787</latitude>
+    <longitude>9.8102084</longitude>
+    <mondayOpen>2010-01-01 00:01:00.0</mondayOpen>
+    <mondayClose>2010-01-02 00:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 00:01:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-02 00:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 00:01:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-02 00:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 00:01:00.0</thursdayOpen>
+    <thursdayClose>2010-01-02 00:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 00:01:00.0</fridayOpen>
+    <fridayClose>2010-01-02 00:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 00:01:00.0</saturdayOpen>
+    <saturdayClose>2010-01-02 00:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 00:01:00.0</sundayOpen>
+    <sundayClose>2010-01-02 00:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Vrensted</name>
+    <streetName>Bådstedhedevej</streetName>
+    <streetBuildingIdentifier>8</streetBuildingIdentifier>
+    <postCodeIdentifier>9480</postCodeIdentifier>
+    <districtName>Løkken</districtName>
+    <districtSubDivisionIdentifier>Vrensted</districtSubDivisionIdentifier>
+    <contactPerson>Karina Jensen</contactPerson>
+    <telephone>98889009</telephone>
+    <telefax>98889609</telefax>
+    <email>vrensted@spar.dk</email>
+    <website>http://www.spar.dk/vrensted</website>
+    <latitude>57.3380729</latitude>
+    <longitude>9.7755069</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 15:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 15:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Fårup</name>
+    <streetName>Butikstorvet</streetName>
+    <streetBuildingIdentifier>3</streetBuildingIdentifier>
+    <postCodeIdentifier>8990</postCodeIdentifier>
+    <districtName>Fårup</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Kim Petersen</contactPerson>
+    <telephone>83452016</telephone>
+    <telefax>86453816</telefax>
+    <email>faarup@spar.dk</email>
+    <website>http://www.spar.dk/faarup</website>
+    <latitude>56.546047239610225</latitude>
+    <longitude>9.842891693115234</longitude>
+    <mondayOpen>2010-01-01 07:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 19:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 19:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>14</chainID>
+    <name>SUPER SPAR Agerskov</name>
+    <streetName>Hovedgaden</streetName>
+    <streetBuildingIdentifier>14</streetBuildingIdentifier>
+    <postCodeIdentifier>6534</postCodeIdentifier>
+    <districtName>Agerskov</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Sonja &amp; Paul Petersen</contactPerson>
+    <telephone>74833303</telephone>
+    <telefax>74833692</telefax>
+    <email>agerskov@spar.dk</email>
+    <website>http://www.spar.dk/agerskov</website>
+    <latitude>55.13002307399379</latitude>
+    <longitude>9.130067825317383</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 18:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 18:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 18:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 18:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 18:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 18:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Sommersted</name>
+    <streetName>Storegade</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>6560</postCodeIdentifier>
+    <districtName>Sommersted</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <contactPerson>Linda Tarp &amp; Kirsten Toft</contactPerson>
+    <telephone>74504200</telephone>
+    <telefax>74504288</telefax>
+    <email>sommersted@spar.dk</email>
+    <website>http://www.spar.dk/sommersted</website>
+    <latitude>55.3211413</latitude>
+    <longitude>9.310071</longitude>
+    <mondayOpen>2010-01-01 08:00:00.0</mondayOpen>
+    <mondayClose>2010-01-01 19:00:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 08:00:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 19:00:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 08:00:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 19:00:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 08:00:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 19:00:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 08:00:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 08:00:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 19:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 08:00:00.0</sundayOpen>
+    <sundayClose>2010-01-01 19:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>12</chainID>
+    <name>SPAR Ydby</name>
+    <streetName>Oddesundvej</streetName>
+    <streetBuildingIdentifier>267</streetBuildingIdentifier>
+    <postCodeIdentifier>7760</postCodeIdentifier>
+    <districtName>Hurup Thy</districtName>
+    <districtSubDivisionIdentifier>Ydby</districtSubDivisionIdentifier>
+    <contactPerson>Annette Vangsgaard</contactPerson>
+    <telephone>97956012</telephone>
+    <telefax>97956453</telefax>
+    <email>ydby@spar.dk</email>
+    <website>http://www.spar.dk/ydby</website>
+    <latitude>56.7085574</latitude>
+    <longitude>8.4127705</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 17:30:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 17:30:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 17:30:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 17:30:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 19:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 17:30:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 17:30:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+  <Store>
+    <chainID>13</chainID>
+    <name>KWIK SPAR Vorgod</name>
+    <streetName>Torvegade</streetName>
+    <streetBuildingIdentifier>21</streetBuildingIdentifier>
+    <postCodeIdentifier>6920</postCodeIdentifier>
+    <districtName>Videbæk</districtName>
+    <districtSubDivisionIdentifier>Vorgod</districtSubDivisionIdentifier>
+    <contactPerson>Laila Kristensen</contactPerson>
+    <telephone>97175008</telephone>
+    <telefax>97178268</telefax>
+    <email>vorgod@spar.dk</email>
+    <website>http://www.spar.dk/vorgod</website>
+    <latitude>56.0853282</latitude>
+    <longitude>8.6996961</longitude>
+    <mondayOpen>2010-01-01 07:30:00.0</mondayOpen>
+    <mondayClose>2010-01-01 17:30:00.0</mondayClose>
+    <tuesdayOpen>2010-01-01 07:30:00.0</tuesdayOpen>
+    <tuesdayClose>2010-01-01 17:30:00.0</tuesdayClose>
+    <wednesdayOpen>2010-01-01 07:30:00.0</wednesdayOpen>
+    <wednesdayClose>2010-01-01 17:30:00.0</wednesdayClose>
+    <thursdayOpen>2010-01-01 07:30:00.0</thursdayOpen>
+    <thursdayClose>2010-01-01 17:30:00.0</thursdayClose>
+    <fridayOpen>2010-01-01 07:30:00.0</fridayOpen>
+    <fridayClose>2010-01-01 18:00:00.0</fridayClose>
+    <saturdayOpen>2010-01-01 07:30:00.0</saturdayOpen>
+    <saturdayClose>2010-01-01 12:00:00.0</saturdayClose>
+    <sundayOpen>2010-01-01 07:30:00.0</sundayOpen>
+    <sundayClose>2010-01-01 11:00:00.0</sundayClose>
+    <firstAndLastSundayInMonthOpen></firstAndLastSundayInMonthOpen>
+    <firstAndLastSundayInMonthClose></firstAndLastSundayInMonthClose>
+  </Store>
+</objects>

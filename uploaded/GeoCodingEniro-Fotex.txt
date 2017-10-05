@@ -1,0 +1,11 @@
+Processing: GeoCodingEniro-Fotex.zip
+Unzipping: GeoCodingEniro-Fotex.xml
+-!- multiple stores at same address. Store.id=222003, Store.chainID=4
+-!- multiple stores at same address. Store.id=303005, Store.chainID=9
+
+-!- multiple stores at same address. Store.id=148012, Store.chainID=5
+-!- multiple stores at same address. Store.id=304003, Store.chainID=9
+
+Locations: 78
+Updated Stores: 80
+

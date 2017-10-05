@@ -1,0 +1,27 @@
+split()
+{
+  CMarkup xmlInput, xmlOutput;
+  xmlInput.Open( "StoresNettoDK-1.xml", MDF_READFILE );
+  int nObjectCount = 0, nFileCount = 0;
+  while ( xmlInput.FindElem("//Store") )
+  {
+    if ( nObjectCount == 0 )
+    {
+      ++nFileCount;
+      xmlOutput.Open( "StoresNettoDK-1.part" + nFileCount + ".xml", MDF_WRITEFILE );
+      xmlOutput.AddElem( "objects" );
+      xmlOutput.IntoElem();
+    }
+    xmlOutput.AddSubDoc( xmlInput.GetSubDoc() );
+    ++nObjectCount;
+    if ( nObjectCount == 700 )
+    {
+      xmlOutput.Close();
+      nObjectCount = 0;
+    }
+  }
+  if ( nObjectCount )
+    xmlOutput.Close();
+  xmlInput.Close();
+  return nFileCount;
+}

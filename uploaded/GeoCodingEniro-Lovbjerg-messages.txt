@@ -1,0 +1,2785 @@
+Message Number: 1, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-23 21:33:26.01
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Extract action. The attribute is of type Number and this text is not a valid
+   number: "<html lang="da" xmlns="http://www.w3.org/1999/xhtml" style="">
+   <head>
+   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+   <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+   <link rel="stylesheet" href="http://www.eniro.dk/components/person/style/addressbookstyle.css?2.10.49"
+   type="text/css" media="screen">
+   <link rel="stylesheet" href="http://www.eniro.dk/components/person/style/addressbookstyle.ie.css?2.10.49"
+   type="text/css" media="screen">
+   <script type="text/javascript" src="http://www.eniro.dk/scripts/supersearch-core-nomin.js?2.10.49"
+   charset="iso-8859-1">
+   </script>
+   <link rel="stylesheet" href="http://www.eniro.dk/style/supersearch-nomin.css?2.10.49" type="text/css"
+   media="screen">
+   <script type="text/javascript" src="http://www.eniro.dk/scripts/supersearch-nomin.js?2.10.49"
+   charset="iso-8859-1">
+   </script>
+   <script id="__onDOMContentLoaded" defer="" src="//:" onreadystatechange>
+   </script>
+   <link rel="stylesheet" href="http://www.eniro.dk/style/supersearch-nomin.ie.css?2.10.49" type="text/css"
+   media="screen">
+   <link rel="stylesheet" href="http://www.eniro.dk/components/supersearch/style/supersearch-print.css?2.10.49"
+   type="text/css" media="print">
+   <script type="text/javascript" src="http://eas8.emediate.eu/EAS_tag.1.0.js">
+   </script>
+   <link rel="stylesheet" href="http://www.eniro.dk/qm-splinx-static/core/styles/core_all.css?2.10.49"
+   type="text/css" media="screen">
+   <title>
+   Tarup Centret, Rugvang 36-38, , 5210 Odense NV - Eniro
+   </title>
+   <script type="text/javascript" charset="utf-8" src="http://adtlgc.extserv.krak.dk/personalizeList?feedId=1&amp;callback=adapt_data-
+   Request_eniro.callback">
+   </script>
+   </head>
+   <body id="web" class="resultpage dk_da list-all script-on">
+   <script type="text/javascript" src="http://enirocode.adtlgc.com/js/enirodk_init.js">
+   </script>
+   <div id="head" class="clearfix ">
+   <div id="head-wrap" class="clearfix ">
+   <a href="http://www.eniro.dk/" id="eniro-logo"><img src="http://www.eniro.dk/cimg/logo_eniro.gif"
+   alt="Eniro" width="108" height="26"> </a>
+   <div class="skip">
+   <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&-
+   amp;what=all#search">Tilbage til s&oslash;geformularen</a> <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Ce-
+   ntret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp;what=all#main">Tilbage til s&oslash;geresultatet
+   </a>
+   </div>
+   <ul id="nav" class="clearfix">
+   <li class="n-web">
+   <a title="S&oslash;g og find: Danske og internationale websites" href="http://www.eniro.dk/"><span>Supers&oslash;g</span></a>
+   </li>
+   <li class="n-company">
+   <a title="S&oslash;g og find: Firmaer (kontaktinformation, gode tilbud m.m.)" href="http://firma.eniro.dk/"><span>Firma</span></a>
+   </li>
+   <li class="n-person">
+   <a title="S&oslash;g og find: Personer (telefonnumre, mobilnumre, adresser m.m.)" href="http://person.eniro.dk/"><span>Person</spa-
+   n></a>
+   </li>
+   <li class="n-muni">
+   <a title="S&oslash;g og find: Kommuner, institutioner og foreninger" href="http://kommune.eniro.dk/"><span>Kommune</span></a>
+   </li>
+   <li class="n-map">
+   <a title="S&oslash;g adresser, firmaer og personer, og se resultater p&aring; kort og luftfotos"
+   href="http://kort.eniro.dk/"><span>Kort</span></a>
+   </li>
+   <li class="n-link">
+   <a title="Links til alle de bedste danske sider p&aring; nettet" href="http://www.ni.dk/"><span>Linkguide</span></a>
+   </li>
+   <li class="n-other">
+   <a title="Flere s&oslash;gemuligheder og indhold p&aring; Eniro.dk" href="http://www.eniro.dk/oversigt/"><span>Flere
+   tjenester</span></a>
+   </li>
+   </ul>
+   <div id="secondary-nav">
+   <ul>
+   <li class="n-webb first">
+   <a href="http://www.eniro.dk/web/">Webs&oslash;g</a>
+   </li>
+   <li class="n-image">
+   <a href="http://www.eniro.dk/billedsoeg/">Billeds&oslash;g</a>
+   </li>
+   <li class="n-video">
+   <a href="http://www.eniro.dk/videosoeg/">Videos&oslash;g</a>
+   </li>
+   <li class="n-news">
+   <a href="http://www.eniro.dk/nyhedsoeg/">Nyhedss&oslash;g</a>
+   </li>
+   <li class="n-route">
+   <a href="http://kort.eniro.dk/query?&amp;what=route&amp;mop=aq&amp;searchInMap=1&amp;mapstate=1%3B11.7%3B56.2%3B0%3B3.993920031898-
+   658%3B60.06829878329733%3B19.387793117475212%3B52.35366595392368&amp;stq=0&amp;pis=0">Ruteplan</a>
+   </li>
+   </ul>
+   </div>
+   <div id="search-wrapper">
+   <form action="/query" method="get" name="search" id="search" class="clearfix two-fields">
+   <h1 class="structural">
+   S&ouml;k med Eniro
+   </h1>
+   <div id="first-field" class="what first-field">
+   <label for="what"><strong>Hvad/Hvem</strong></label> <input type="text" tabIndex="1" value=""
+   name="search_word" id="what"> 
+   </div>
+   <div id="second-field" class="where second-field">
+   <label for="where"><strong>Hvor</strong></label> <input type="text" tabIndex="2" value="Tarup
+   Centret, Rugvang 36-38, , 5210 Odense NV" name="geo_area" id="where"> 
+   </div>
+   <div class="submit">
+   <input type="hidden" value="all" name="what" id="superDefault"> <input type="submit" tabIndex="3"
+   value="S&oslash;g"> <a class="advanced-search" title="Avanceret s&oslash;gning" href="http://www.eniro.dk/query?what=web_adv&amp;l-
+   r=lang_da" style="display: none;" id="advanced-search">Avanceret s&oslash;gning</a> 
+   </div>
+   <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&-
+   amp;what=all#favs" id="myFavs" style="display:none">Mine favoritter</a> 
+   </form>
+   </div>
+   </div>
+   </div>
+   <h3 class="structural">
+   Banner
+   </h3>
+   <div id="banner">
+   <!-- "7.1 Eniro.dk WS Res 930x90" (section "Eniro.dk WebSearch (WS)") -->
+   <script type="text/javascript">
+   // <![CDATA[
+   if (window["adapt_checkResponse"]) adapt_checkResponse();
+   if (typeof(adptpecresp) == 'undefined') var adptpecresp = '';
+   document.write('<scr'+'ipt type="text/javascript" src="http://eas8.emediate.eu/eas?cu=392;sw2=
+   Tarup Centret, Rugvang 36-38, , 5210 Odense NV;sw= Tarup Centret, Rugvang 36-38, , 5210 Odense
+   NV;EASTpecresp='+adptpecresp+';cre=mu;js=y;misc='+new Date().getTime()+'"></scri'+'pt>'); 
+   // ]]>
+
+   </script>
+   <script type="text/javascript" src="http://eas8.emediate.eu/eas?cu=392;sw2= Tarup Centret,
+   Rugvang 36-38, , 5210 Odense NV;sw= Tarup Centret, Rugvang 36-38, , 5210 Odense NV;EASTpecresp=;cre=mu;js=y;misc=1293136322340">
+   </script>
+   <script language="VBScript">
+
+   on error resume next 
+   Dim eas_flobj(11) 
+   Set eas_flobj(2) = CreateObject("ShockwaveFlash.ShockwaveFlash.2") 
+   if(IsObject(eas_flobj(2))) Then EAS_flash=2 
+   Set eas_flobj(3) = CreateObject("ShockwaveFlash.ShockwaveFlash.3") 
+   if(IsObject(eas_flobj(3))) Then EAS_flash=3 
+   Set eas_flobj(4) = CreateObject("ShockwaveFlash.ShockwaveFlash.4") 
+   if(IsObject(eas_flobj(4))) Then EAS_flash=4 
+   Set eas_flobj(5) = CreateObject("ShockwaveFlash.ShockwaveFlash.5") 
+   if(IsObject(eas_flobj(5))) Then EAS_flash=5 
+   Set eas_flobj(6) = CreateObject("ShockwaveFlash.ShockwaveFlash.6") 
+   if(IsObject(eas_flobj(6))) Then EAS_flash=6 
+   Set eas_flobj(7) = CreateObject("ShockwaveFlash.ShockwaveFlash.7") 
+   if(IsObject(eas_flobj(7))) Then EAS_flash=7 
+   Set eas_flobj(8) = CreateObject("ShockwaveFlash.ShockwaveFlash.8") 
+   if(IsObject(eas_flobj(8))) Then EAS_flash=8 
+   Set eas_flobj(9) = CreateObject("ShockwaveFlash.ShockwaveFlash.9") 
+   if(IsObject(eas_flobj(9))) Then EAS_flash=9 
+   Set eas_flobj(10) = CreateObject("ShockwaveFlash.ShockwaveFlash.10") 
+   if(IsObject(eas_flobj(10))) Then EAS_flash=10 
+   </script>
+   <a target="_blank" href="http://eas8.emediate.eu/eas/cu=392::camp=59543::no=72498::kw=link2-72498::encoding=utf-8::sw2=%20Tarup%20-
+   Centret,%20Rugvang%2036-38,%20,%205210%20Odense%20NV::sw=%20Tarup%20Centret,%20Rugvang%2036-38,%20,%205210%20Odense%20NV::cman1=-2-
+   0::cman2=-20::EASLink=http://track.adform.net/C/?bn=479198;C=1"><img width="728" height="90"
+   src="http://track.adform.net/adfserve/?bn=479198;srctype=4;ord=1293136328" border="0"></a>
+
+   <noscript>
+   </noscript>
+   </div>
+   <div id="super-search">
+   <div id="yellow-hits-wrapper" class="clearfix">
+   <div class="header">
+   <h2>
+   <a href="http://firma.eniro.dk/query?what=cs&amp;geo_area=tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Firmas&oslash;g
+   - <span>Vis alle</span></a> <span>(755)</span> 
+   </h2>
+   </div>
+   <div id="yellow-hits" class="two-by-one clearfix">
+   <div id="yellow-results" class="col yellow-box">
+   <ul id="yellow-list-1" class="yellow-list show">
+   <li id="yp1" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>1. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/795485/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">OK &Aring;have Parkvej</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>89 32 22 11</span> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">&Aring;have Parkvej 11</span> <span class="locality">8260 Viby
+   J</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.ok.dk/" target="_blank">www.ok.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp2" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>2. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/350087/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Krak</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 38 38 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/350087/reffering_what/all/company_name/krak/from/web_comp_minfo/geo_area/-
+   tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Sydmarken 44A</span> <span class="locality">2860 S&oslash;borg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.krak.dk/" target="_blank">www.krak.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Krak.dk ejes af Eniro Danmark A/S, som er en af Danmarks f&oslash;rende virksom... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp3" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>3. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/324571/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Spar Nord Aalborg Hovedkontor</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>96 34 40 00</span> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Skelagervej 15</span> <span class="locality">9000 Aalborg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.sparnord.dk/" target="_blank">www.sparnord.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Vi har h&oslash;jt til loftet - og let til smil og godt hum&oslash;r. Gennem lokale fr... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp1" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-2" class="yellow-list show">
+   <li id="yp4" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>4. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1091197/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">T&aelig;t Tag Danmark A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 12 22 10</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1091197/reffering_what/all/company_name/t&aelig;t+tag+danmark+a%252Fs/fro-
+   m/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Paludan-M&uuml;llers...</span> <span class="locality">8200 &Aring;rhus
+   N</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.taettag.dk/" target="_blank">www.taettag.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Vi er specialister i nybygning og renovering af flade tage og h&aelig;ldningst... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp5" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>5. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1065144/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Spies</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 42 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1065144/reffering_what/all/company_name/spies/from/web_comp_minfo/geo_are-
+   a/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Nansensgade 19,...</span> <span class="locality">1366 K&oslash;benhavn
+   K</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.spies.dk/" target="_blank">www.spies.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Med Spies f&aring;r du altid den bedste rejse til den bedste pris. Spies er Da... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp6" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>6. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/660987/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Fad&oslash;lsforsyningen Carlsberg Tuborg</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 60 90</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/660987/reffering_what/all/company_name/fad&oslash;lsforsyningen+carlsberg-
+   +tuborg/from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a>
+
+   </p>
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.fadolsforsyningen.dk/" target="_blank">www.fadolsforsyni...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Landsd&aelig;kkende udlejning af fad&oslash;lsanl&aelig;g til firmaer og private. 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp2" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-3" class="yellow-list show">
+   <li id="yp7" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>7. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/404248/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Trekroner Forsikring</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 03 80</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/404248/reffering_what/all/company_name/trekroner+forsikring/from/web_comp-
+   _minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Gammel Kongevej...</span> <span class="locality">1850 Frederiksb...</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.trekroner.dk/" target="_blank">www.trekroner.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   F&aring; et godt tilbud p&aring; dine forsikringer 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp8" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>8. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1137048/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">NI.dk</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 38 38 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1137048/reffering_what/all/company_name/ni.dk/from/web_comp_minfo/geo_are-
+   a/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Sydmarken 44A</span> <span class="locality">2860 S&oslash;borg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.ni.dk/" target="_blank">www.ni.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Eniro Linkguide er din indgang til den danske del af Internettet. Her fi... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp9" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>9. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1134637/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">SOL.dk</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 38 38 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1134637/reffering_what/all/company_name/sol.dk/from/web_comp_minfo/geo_ar-
+   ea/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Sydmarken 44A</span> <span class="locality">2860 S&oslash;borg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.sol.dk/" target="_blank">www.sol.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   SOL er din indgang til Internettet. Vi tilbyder gratis webmail, opskrift... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp3" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-4" class="yellow-list show">
+   <li id="yp10" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>10. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/594105/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Bosch Siemens Gaggenau Hvidevareser...</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>44 89 89 85</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/594105/reffering_what/all/company_name/bosch+siemens+gaggenau+hvidevarese-
+   rvice/from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a>
+
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Telegrafvej 4</span> <span class="locality">2750 Ballerup</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.bosch-home.dk/" target="_blank">www.bosch-home.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Online k&oslash;b af reservedele samt bestilling af servicebes&oslash;g kan foretages ... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp11" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>11. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/424507/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Stofa A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 30 30 30</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/424507/reffering_what/all/company_name/stofa+a%252Fs/from/web_comp_minfo/-
+   geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Uraniavej 6</span> <span class="locality">8700 Horsens</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.stofa.dk/" target="_blank">www.stofa.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Stofa er Danmarks n&aelig;stst&oslash;rste leverand&oslash;r af kabel-tv og bredb&aring;nd.
+   I sama... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp12" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>12. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/984207/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">St&oslash;vring Autoophug ApS</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>98 37 36 20</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/984207/reffering_what/all/company_name/st&oslash;vring+autoophug+aps/from-
+   /web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Banesvinget 9 -...</span> <span class="locality">9530 St&oslash;vring</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.stoevring-autoophug.dk/" target="_blank">www.stoevring-aut...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   AUTOOPHUGGET I HIMMERLAND - HELE TIDEN I EKSPANSION. HAR VI IKKE DELENE ... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp4" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-5" class="yellow-list show">
+   <li id="yp13" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>13. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1116943/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">JMS Milj&oslash; ApS</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>97 13 63 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1116943/reffering_what/all/company_name/jms+milj&oslash;+aps/from/web_com-
+   p_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Middelfartvej 38</span> <span class="locality">5466 Asperup</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.jms.dk/" target="_blank">www.jms.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Som r&aring;dgivnings- og servicevirksomhed er det JMS Milj&oslash;s (Jydsk Milj&oslash; San...
+
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp14" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>14. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1045745/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">Dansk Varme Service A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 98 10</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1045745/reffering_what/all/company_name/dansk+varme+service+a%252Fs/from/-
+   web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Solvang 40</span> <span class="locality">3450 Aller&oslash;d</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.danskvarmeservice.dk/" target="_blank">www.danskvarmeser...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp15" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>15. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1002156/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">Dansk Autohj&aelig;lp A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 80 90</span> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Tors&oslash;vej 2</span> <span class="locality">8240 Risskov</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.dah.dk/" target="_blank">www.dah.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Dansk Autohj&aelig;lp yder i hele Danmark og Europa. Vores professionelle meda... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp5" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-6" class="yellow-list show">
+   <li id="yp16" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>16. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1150090/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">DCC Energi</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 20 10</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1150090/reffering_what/all/company_name/dcc+energi/from/web_comp_minfo/ge-
+   o_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">N&aelig;rum Hovedgade 8</span> <span class="locality">2850 N&aelig;rum</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.dccenergi.dk/" target="_blank">www.dccenergi.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp17" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>17. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/659005/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Carlsberg Danmark Salg - Detail/Con...</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>33 27 26 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/659005/reffering_what/all/company_name/carlsberg+danmark+salg+-+detail%25-
+   2Fconvenience/from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere
+   info</a> 
+   </p>
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.carlsbergdanmark.dk/" target="_blank">www.carlsbergdanm...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp18" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>18. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/49829/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Kudsk &amp; Dahl A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>74 54 12 92</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/49829/reffering_what/all/company_name/kudsk+&amp;+dahl+a%252Fs/from/web_c-
+   omp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Vojensvej 7</span> <span class="locality">6500 Vojens</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.kudsk-dahl.dk/" target="_blank">www.kudsk-dahl.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Pr. 3. marts 2008 blev virksomheden solgt til Unicon A/S, som overtog al... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp6" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-7" class="yellow-list show">
+   <li id="yp19" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>19. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1112969/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">Carlsberg Danmark Salg - On Trade</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>33 27 10 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1112969/reffering_what/all/company_name/carlsberg+danmark+salg+-+on+trade-
+   /from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a>
+
+   </p>
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.carlsbergdanmark.dk/" target="_blank">www.carlsbergdanm...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp20" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>20. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/804532/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Deloitte</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>36 10 20 30</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/804532/reffering_what/all/company_name/deloitte/from/web_comp_minfo/geo_a-
+   rea/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Weidekampsgade 6</span> <span class="locality">2300 K&oslash;benhavn
+   S</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.deloitte.dk/" target="_blank">www.deloitte.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp21" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>21. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/73415/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">KIBO SYSTEM A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 70 77</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/73415/reffering_what/all/company_name/kibo+system+a%252Fs/from/web_comp_m-
+   info/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Energivej 1</span> <span class="locality">6933 Kib&aelig;k</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.kibo-system.dk/" target="_blank">www.kibo-system.dk</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   KIBO SYSTEM AS totalleverand&oslash;r af sikringsl&oslash;sninger og leverer s&aring;vel enk...
+
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp7" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-8" class="yellow-list show">
+   <li id="yp22" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>22. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/742683/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">L&aring;separtner BC Fredericia</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>75 92 04 98</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/742683/reffering_what/all/company_name/l&aring;separtner+bc+fredericia/fr-
+   om/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Egeskovvej 145</span> <span class="locality">7000 Fredericia</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.laasepartner.dk/" target="_blank">www.laasepartner.dk</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   L&aring;separtner er f&oslash;rende inden for mekanisk og elektronisk sikring til vir... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp23" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>23. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/335162/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">L&aring;separtner BC Odense</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>66 10 82 19</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/335162/reffering_what/all/company_name/l&aring;separtner+bc+odense/from/w-
+   eb_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">&Oslash;stbirkvej 7</span> <span class="locality">5240 Odense
+   N&Oslash;</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.laasepartner.dk/" target="_blank">www.laasepartner.dk</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   L&aring;separtner er f&oslash;rende inden for mekanisk og elektronisk sikring til vir... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li class="hit more-hits">
+   <p>
+   Finder du ikke det, du s&oslash;ger?
+   </p>
+   <p>
+   <a href="http://firma.eniro.dk/query/what/cs/from/web_comp_morehits/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Vis
+   alle 755 resultater.</a> 
+   </p>
+   <input type="hidden" id="wcm-request-yp8" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   </div>
+   <div id="yellow-scrollbar" class="scrollbar begin clearfix">
+   <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&-
+   amp;what=all#" class="up" title="Se flere resultater"></a><a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Cen-
+   tret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp;what=all#" class="down" title="Se
+   flere resultater"></a>
+   </div>
+   </div>
+   <div id="map-results" class="small-map-box">
+   <div class="boxhead-wrap">
+   <h2>
+   Kort
+   </h2>
+   </div>
+   <div id="map-results-wrapper">
+   <div id="imageholder">
+   <p id="maplinks">
+   <a href="http://kort.eniro.dk/query/what/map/hits_on_map/1/geo_area/Tarup%2BCentret%2C%2BRugvang%2B36-38%2C%2B%2C%2B5210%2BOdense%-
+   2BNV/mop/yp/disable_ka/1">Vis p&aring; stort kort</a> 
+   </p>
+   <div id="mapWrap" style="display: none;">
+   <div id="mapContainer">
+   </div>
+   </div>
+   <div id="large-image">
+   <p>
+   Kort
+   </p>
+   </div>
+   </div>
+   </div>
+   </div>
+   </div>
+   <div id="main-results" class="clearfix">
+   <div class="header">
+   <h2>
+   <a id="web-hits-header" href="http://www.eniro.dk/query?what=web&amp;search_word=Tarup%20Centret%2C%20Rugvang%2036-38%2C%20%2C%205-
+   210%20Odense%20NV">Vis kun Web</a> <span>(36)</span> 
+   </h2>
+   <p class="buy-domain">
+   <!-- "7.1 Eniro.dk WS Res Txt Top 1x1" (section "Eniro.dk WebSearch (WS)") -->
+   <script type="text/javascript" src="http://eas8.emediate.eu/eas?cre=mu;js=y;encoding=utf-8;cat1=DKAREADK;EASInclude=;cat3=;EASIncl-
+   ude2=DKAREADK;cat2=;sw2=DKAREADK;cu=393;sw=;target=_blank">
+   </script>
+   </p>
+   <div class="buy-domain" style="line-height:20px; text-align:right;">
+   <a style="text-decoration:none;" href="http://eas8.emediate.eu/eas/cu=393::camp=30854::no=31255::kw=link1-31255::encoding=utf-8::c-
+   at1=DKAREADK::sw2=DKAREADK::cman1=-20::cman2=-20::EASLink=http://www.one.com/banner/log_click?agency=sol-dk-parallel&amp;locale=da-
+   &amp;keyword=&amp;dns=" target="_blank">Se om dom&aelig;net <strong style="text-decoration:underline;"></strong>er
+   ledigt <img src="http://eas8.emediate.eu/media.8/3/105/30854//one.com-logo.jpg" alt="one.com"
+   align="absmiddle">- hele Danmarks webhotel</a>
+   </div>
+   <noscript>
+   </noscript>
+   <p>
+   </p>
+   </div>
+   <div id="web-result" class="result clearfix">
+   <div class="hits">
+   <div id="splinx-plh-top" class="splinx-container vertical">
+   </div>
+   <h3 class="structural">
+   Generiska tr&auml;ffar
+   </h3>
+   <ul class="web">
+   <li>
+   <h4>
+   <a href="http://openhours.dk/spots/danske-bank-tarup-afdeling-odense-nv-tarup-center-rugvang-36-f3b69a02fd">OH
+   - Danske Bank Tarup Afdeling <b>Odense NV Tarup Center</b>, <b>Rugvang</b> 36 <b>...</b></a>
+   </h4>
+   <p>
+   Tarup Afdeling. Danske Bank Tarup Afdeling. <b>Tarup Center</b>, <b>Rugvang 36- 38 5210</b>
+
+   <br>
+   <b>Odense NV</b>. work 45 12 25 00. 55.40338,10.35504 <b>...</b>
+   </p>
+   <div class="meta">
+   openhours.dk/spots/danske-bank-tarup-afdeling-odense-nv-tarup-... &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.danskebank.dk/da-dk/Kundeservice/Privatkunder/Find-afdeling/Pages/Soegeresultat-paa-afdeling.aspx?branchSearch-
+   =5000,5090,5100,5200,5210,5220,5230,5240,5250,5260,5270,5320,5491&amp;branchType=3&amp;branchSearchType=3&amp;SearchZipCodeOnly=tr-
+   ue">S&oslash;geresultat p&aring; afdeling</a>
+   </h4>
+   <p>
+   Tarup Afdeling, <b>Tarup Center</b>, <b>Rugvang 36-38</b>, <b>5210</b>, <b>Odense NV</b>, 45122500
+   <b>...</b> 
+   <br>
+   <b>Odense</b> Nord Afdeling, N&aelig;sbyhovedvej 1, 5270, <b>Odense N</b>, 45121640 <b>...</b>
+   </p>
+   <div class="meta">
+   www.danskebank.dk/da-dk/Kundeservice/Privatkunder/Find-afdelin... &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.cylex.dk/odense+nv/10/"><b>Odense nv</b> - den tiende side</a>
+   </h4>
+   <p>
+   <b>5210 ODENSE NV</b>, <b>RUGVANG 36-38</b>, <b>TARUP CENTER</b>. Danske Bank, L&aring;n penge,
+   handel med 
+   <br>
+   valuta, aktier og obligationer og f&aring; r&aring;dgivning om penge og privat&oslash;konomi
+   i <b>...</b>
+   </p>
+   <div class="meta">
+   www.cylex.dk/odense+nv/10/ &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.lovbjerg.dk/landkort.asp">Find din lokale L&oslash;vbjerg butik</a>
+   </h4>
+   <p>
+   L&oslash;vbjerg - <b>Odense Tarup Centret</b>, <b>Rugvang 36-38 5210 Odense NV</b> Butikschef:
+   Ulrik 
+   <br>
+   Rasmussen Find butikken p&aring; Krak &Aring;bningstider: <b>...</b>
+   </p>
+   <div class="meta">
+   www.lovbjerg.dk/landkort.asp &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.odense-bolbro-apotek.dk/page/580">Apotekets afdelinger - Bolbro Apotek</a>
+   </h4>
+   <p>
+   Bolbro apotek, Tarup apotek, Korup apoteksudsalg. Middelfartvej 115, 5200 Odense 
+   <br>
+   V. <b>Tarup center</b>, <b>Rugvang 36 - 38</b>, <b>5210 Odense NV</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.odense-bolbro-apotek.dk/page/580 &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.odense.dk/Topmenu/Kommunen/Kontakt%20til%20Kommunen.aspx"><b>Odense</b>
+   Kommune - &Aring;bningstider, adresser og telefonnumre</a>
+   </h4>
+   <p>
+   17. nov 2010 <b>...</b> <b>Odense</b> Slot, indgang G N&oslash;rregade <b>36 - 38</b>. Postboks
+   730 5100 <b>Odense</b> C <b>...</b> Tarup 
+   <br>
+   Bibliotek, <b>Tarup Centret</b>, <b>Rugvang</b> 40, <b>5210 Odense NV</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.odense.dk/Topmenu/Kommunen/Kontakt%20til%20Kommunen.aspx &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.tislet.dk/?id=forhandlere">Tisletten</a>
+   </h4>
+   <p>
+   <b>...</b> Apoteket Rosen, Tuborgvej 269, 2400 K&oslash;benhavn NV, 35 81 75 00; Br&oslash;ndby&oslash;ster
+
+   <br>
+   Apotek, <b>...</b> Tarup Apotek, <b>Tarup center</b>, <b>Rugvang 36 - 38</b>, <b>5210 Odense
+   NV</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.tislet.dk/?id=forhandlere &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.butikmarianne.dk/200-find_os.htm">Find os - Butik Marianne -Bekl&aelig;dning
+   til den moderne kvinde</a>
+   </h4>
+   <p>
+   Butik med bekl&aelig;dning til den moderne kvinde. Beliggende i <b>Odense</b>. <b>...</b> Butik
+
+   <br>
+   Marianne <b>Tarup Center Rugvang 36-38 5210 Odense NV</b>. Tlf.: 66162908 <b>...</b>
+   </p>
+   <div class="meta">
+   www.butikmarianne.dk/200-find_os.htm &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.e-pages.dk/lokalavisennordvest/39/3">Lokalavisen Nordvest - 15-12-2010</a>
+   </h4>
+   <p>
+   15. dec 2010 <b>...</b> Vi regner med, at centeret kan tages i brug senest i be- <b>...</b>
+   l&oslash;rdag den 18. 
+   <br>
+   december 2010 <b>Tarup Centret Rugvang 36-38 5210 Odense NV</b> Tlf. 96 <b>...</b>
+   </p>
+   <div class="meta">
+   www.e-pages.dk/lokalavisennordvest/39/3 &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.stensbogaard.dk/koeboellet/koeboellet.html">Stensbogaard Bryghus</a>
+   </h4>
+   <p>
+   H.J. Hansen Vinhandel A/S, 5000 Odense, http://www.hjhansen-vin.dk/ <b>...</b> 
+   <br>
+   Hjallesevej 6, 5000 Odense C; L&oslash;vbjerg <b>Tarup Centret</b>, <b>Rugvang 36-38 5210 Odense</b>
+
+   <br>
+   <b>N</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.stensbogaard.dk/koeboellet/koeboellet.html &middot; dansk
+   </div>
+   </li>
+   </ul>
+   <div id="splinx-plh-bottom" class="splinx-container vertical">
+   </div>
+   </div>
+   </div>
+   <div class="sidebar">
+   <div class="sidebar-unit one-com">
+   <!-- "7.1 Eniro.dk SS Res 313x50" (section "Eniro.dk WebSearch (WS)") -->
+   <script type="text/javascript" src="http://eas8.emediate.eu/eas?cre=mu;js=y;encoding=utf-8;cat1=DKAREADK;EASInclude=;cat3=;EASIncl-
+   ude2=;cat2=;sw2=DKAREADK;cu=1557;sw=;target=_blank">
+   </script>
+   <!-- No matching campaign -->
+   <noscript>
+   </noscript>
+   </div>
+   <div id="splinx-plh-skyscraper" class="splinx-container vertical">
+   </div>
+   </div>
+   <div style="clear:both">
+   <!-- -->
+   </div>
+   <div class="footer">
+   <h4>
+   <a id="web-hits-footer" href="http://www.eniro.dk/query?what=web&amp;search_word=Tarup%20Centret%2C%20Rugvang%2036-38%2C%20%2C%205-
+   210%20Odense%20NV&amp;stq=10">Flere resultater</a>
+   </h4>
+   </div>
+   </div>
+   </div>
+   <div style="display:none">
+   <img src="http://www.eniro.dk/img/sik.gif?customer_id=&amp;exposure_type=&amp;exposure_id=&amp;heading_code=&amp;rank=&amp;order=&-
+   amp;area_code=&amp;stq=0&amp;hpp=25&amp;page_type=web&amp;vhost=http://www.eniro.dk&amp;country=DK&amp;search_word=Tarup
+   Centret, Rugvang 36-38, , 5210 Odense NV&amp;geo_area=Tarup Centret, Rugvang 36-38, , 5210
+   Odense NV&amp;company_name=&amp;phone_number=&amp;street=&amp;zipcode=&amp;area=&amp;dir_area=&amp;geo_code=&amp;test=&amp;generic-
+   =1&amp;hits=755&amp;random=778019" width="0" height="0" alt=""> 
+   </div>
+   <div id="footer">
+   <ul>
+   <li>
+   <a href="http://www.eniro.dk/omeniro" rel="about">Om Eniro</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/annoncer">Annonc&eacute;r</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/" rel="terms"></a>
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/kontaktos" rel="contact">Kontakt os</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/hjaelp" rel="help">Hj&aelig;lp</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.com/dk">&copy; Eniro Danmark A/S</a> 
+   </li>
+   </ul>
+   <p>
+   &nbsp;
+   </p>
+   <p>
+   &nbsp;
+   </p>
+   </div>
+   <!-- footer -->
+   <!-- Stat Starts -->
+   <script type="text/javascript" src="http://www.eniro.dk/scripts/lib/tmv11.js#V$">
+   </script>
+   <script type="text/javascript">
+   <!--
+   getTMqs('http', '', '', 'eniro_dk', 'dk', 'ISO-8859-15');
+   //-->
+
+   </script>
+   <img name="tmImg1" border="0" height="1" width="1" onload="nxtImg(&quot;tmImg2&quot;, &quot;http&quot;,
+   &quot;http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp-
+   ;what=all****false/800x600/32/eniro_dk/dk/ISO-8859-15/1293136322990/&quot;);" src="http://statistik-gallup.net/VC1293136322990"><i-
+   mg name="tmImg2" border="0" height="1" width="1" src="http://statistik-gallup.net/V11http://www.eniro.dk/query?search_word=&amp;ge-
+   o_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp;what=all****false/800x600/32/eniro_dk/dk/ISO-8859--
+   15/1293136322990/"> 
+   <noscript>
+   </noscript>
+   <!-- (C)2000-2009 Gemius SA - gemiusAudience / eniro.dk / Supersearch incl YP -->
+   <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+   var pp_gemius_identifier = new String('nFtATQQus92A8ftUUsG86JeCLeVIxBtWXjDwk5rpgqn.g7');
+   //--><!]]>
+
+   </script>
+   <script type="text/javascript" src="/gemius/xgemius.js">
+   </script>
+   <!-- Stat Ends -->
+   <script type="text/javascript" src="http://www.eniro.dk/qm-splinx-static/core/scripts/core_all_c.js?2.10.49"
+   charset="iso-8859-1">
+   </script>
+   <script type="text/javascript">
+   var splinxModule = new SplinxModule({
+   searchWord: "",
+   geoArea: "Tarup Centret, Rugvang 36-38, , 5210 Odense NV",
+   pageNumber : "1",
+   google : {
+   adPage : "1",
+   client : "eniro-dk"
+   }
+   });
+   </script>
+   </body>
+   </html>".
+Additional Information:
+   ERROR REPORT
+   Report created at: Query Database[1] - Load Page - Test Tag - Extract longitude
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Extract action. The attribute is of type Number and this text
+   is not a valid number: "<html lang="da" xmlns="http://www.w3.org/1999/xhtml" style="">
+   <head>
+   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+   <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+   <link rel="stylesheet" href="http://www.eniro.dk/components/person/style/addressbookstyle.css?2.10.49"
+   type="text/css" media="screen">
+   <link rel="stylesheet" href="http://www.eniro.dk/components/person/style/addressbookstyle.ie.css?2.10.49"
+   type="text/css" media="screen">
+   <script type="text/javascript" src="http://www.eniro.dk/scripts/supersearch-core-nomin.js?2.10.49"
+   charset="iso-8859-1">
+   </script>
+   <link rel="stylesheet" href="http://www.eniro.dk/style/supersearch-nomin.css?2.10.49" type="text/css"
+   media="screen">
+   <script type="text/javascript" src="http://www.eniro.dk/scripts/supersearch-nomin.js?2.10.49"
+   charset="iso-8859-1">
+   </script>
+   <script id="__onDOMContentLoaded" defer="" src="//:" onreadystatechange>
+   </script>
+   <link rel="stylesheet" href="http://www.eniro.dk/style/supersearch-nomin.ie.css?2.10.49" type="text/css"
+   media="screen">
+   <link rel="stylesheet" href="http://www.eniro.dk/components/supersearch/style/supersearch-print.css?2.10.49"
+   type="text/css" media="print">
+   <script type="text/javascript" src="http://eas8.emediate.eu/EAS_tag.1.0.js">
+   </script>
+   <link rel="stylesheet" href="http://www.eniro.dk/qm-splinx-static/core/styles/core_all.css?2.10.49"
+   type="text/css" media="screen">
+   <title>
+   Tarup Centret, Rugvang 36-38, , 5210 Odense NV - Eniro
+   </title>
+   <script type="text/javascript" charset="utf-8" src="http://adtlgc.extserv.krak.dk/personalizeList?feedId=1&amp;callback=adapt_data-
+   Request_eniro.callback">
+   </script>
+   </head>
+   <body id="web" class="resultpage dk_da list-all script-on">
+   <script type="text/javascript" src="http://enirocode.adtlgc.com/js/enirodk_init.js">
+   </script>
+   <div id="head" class="clearfix ">
+   <div id="head-wrap" class="clearfix ">
+   <a href="http://www.eniro.dk/" id="eniro-logo"><img src="http://www.eniro.dk/cimg/logo_eniro.gif"
+   alt="Eniro" width="108" height="26"> </a>
+   <div class="skip">
+   <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&-
+   amp;what=all#search">Tilbage til s&oslash;geformularen</a> <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Ce-
+   ntret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp;what=all#main">Tilbage til s&oslash;geresultatet
+   </a>
+   </div>
+   <ul id="nav" class="clearfix">
+   <li class="n-web">
+   <a title="S&oslash;g og find: Danske og internationale websites" href="http://www.eniro.dk/"><span>Supers&oslash;g</span></a>
+   </li>
+   <li class="n-company">
+   <a title="S&oslash;g og find: Firmaer (kontaktinformation, gode tilbud m.m.)" href="http://firma.eniro.dk/"><span>Firma</span></a>
+   </li>
+   <li class="n-person">
+   <a title="S&oslash;g og find: Personer (telefonnumre, mobilnumre, adresser m.m.)" href="http://person.eniro.dk/"><span>Person</spa-
+   n></a>
+   </li>
+   <li class="n-muni">
+   <a title="S&oslash;g og find: Kommuner, institutioner og foreninger" href="http://kommune.eniro.dk/"><span>Kommune</span></a>
+   </li>
+   <li class="n-map">
+   <a title="S&oslash;g adresser, firmaer og personer, og se resultater p&aring; kort og luftfotos"
+   href="http://kort.eniro.dk/"><span>Kort</span></a>
+   </li>
+   <li class="n-link">
+   <a title="Links til alle de bedste danske sider p&aring; nettet" href="http://www.ni.dk/"><span>Linkguide</span></a>
+   </li>
+   <li class="n-other">
+   <a title="Flere s&oslash;gemuligheder og indhold p&aring; Eniro.dk" href="http://www.eniro.dk/oversigt/"><span>Flere
+   tjenester</span></a>
+   </li>
+   </ul>
+   <div id="secondary-nav">
+   <ul>
+   <li class="n-webb first">
+   <a href="http://www.eniro.dk/web/">Webs&oslash;g</a>
+   </li>
+   <li class="n-image">
+   <a href="http://www.eniro.dk/billedsoeg/">Billeds&oslash;g</a>
+   </li>
+   <li class="n-video">
+   <a href="http://www.eniro.dk/videosoeg/">Videos&oslash;g</a>
+   </li>
+   <li class="n-news">
+   <a href="http://www.eniro.dk/nyhedsoeg/">Nyhedss&oslash;g</a>
+   </li>
+   <li class="n-route">
+   <a href="http://kort.eniro.dk/query?&amp;what=route&amp;mop=aq&amp;searchInMap=1&amp;mapstate=1%3B11.7%3B56.2%3B0%3B3.993920031898-
+   658%3B60.06829878329733%3B19.387793117475212%3B52.35366595392368&amp;stq=0&amp;pis=0">Ruteplan</a>
+   </li>
+   </ul>
+   </div>
+   <div id="search-wrapper">
+   <form action="/query" method="get" name="search" id="search" class="clearfix two-fields">
+   <h1 class="structural">
+   S&ouml;k med Eniro
+   </h1>
+   <div id="first-field" class="what first-field">
+   <label for="what"><strong>Hvad/Hvem</strong></label> <input type="text" tabIndex="1" value=""
+   name="search_word" id="what"> 
+   </div>
+   <div id="second-field" class="where second-field">
+   <label for="where"><strong>Hvor</strong></label> <input type="text" tabIndex="2" value="Tarup
+   Centret, Rugvang 36-38, , 5210 Odense NV" name="geo_area" id="where"> 
+   </div>
+   <div class="submit">
+   <input type="hidden" value="all" name="what" id="superDefault"> <input type="submit" tabIndex="3"
+   value="S&oslash;g"> <a class="advanced-search" title="Avanceret s&oslash;gning" href="http://www.eniro.dk/query?what=web_adv&amp;l-
+   r=lang_da" style="display: none;" id="advanced-search">Avanceret s&oslash;gning</a> 
+   </div>
+   <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&-
+   amp;what=all#favs" id="myFavs" style="display:none">Mine favoritter</a> 
+   </form>
+   </div>
+   </div>
+   </div>
+   <h3 class="structural">
+   Banner
+   </h3>
+   <div id="banner">
+   <!-- "7.1 Eniro.dk WS Res 930x90" (section "Eniro.dk WebSearch (WS)") -->
+   <script type="text/javascript">
+   // <![CDATA[
+   if (window["adapt_checkResponse"]) adapt_checkResponse();
+   if (typeof(adptpecresp) == 'undefined') var adptpecresp = '';
+   document.write('<scr'+'ipt type="text/javascript" src="http://eas8.emediate.eu/eas?cu=392;sw2=
+   Tarup Centret, Rugvang 36-38, , 5210 Odense NV;sw= Tarup Centret, Rugvang 36-38, , 5210 Odense
+   NV;EASTpecresp='+adptpecresp+';cre=mu;js=y;misc='+new Date().getTime()+'"></scri'+'pt>'); 
+   // ]]>
+
+   </script>
+   <script type="text/javascript" src="http://eas8.emediate.eu/eas?cu=392;sw2= Tarup Centret,
+   Rugvang 36-38, , 5210 Odense NV;sw= Tarup Centret, Rugvang 36-38, , 5210 Odense NV;EASTpecresp=;cre=mu;js=y;misc=1293136322340">
+   </script>
+   <script language="VBScript">
+
+   on error resume next 
+   Dim eas_flobj(11) 
+   Set eas_flobj(2) = CreateObject("ShockwaveFlash.ShockwaveFlash.2") 
+   if(IsObject(eas_flobj(2))) Then EAS_flash=2 
+   Set eas_flobj(3) = CreateObject("ShockwaveFlash.ShockwaveFlash.3") 
+   if(IsObject(eas_flobj(3))) Then EAS_flash=3 
+   Set eas_flobj(4) = CreateObject("ShockwaveFlash.ShockwaveFlash.4") 
+   if(IsObject(eas_flobj(4))) Then EAS_flash=4 
+   Set eas_flobj(5) = CreateObject("ShockwaveFlash.ShockwaveFlash.5") 
+   if(IsObject(eas_flobj(5))) Then EAS_flash=5 
+   Set eas_flobj(6) = CreateObject("ShockwaveFlash.ShockwaveFlash.6") 
+   if(IsObject(eas_flobj(6))) Then EAS_flash=6 
+   Set eas_flobj(7) = CreateObject("ShockwaveFlash.ShockwaveFlash.7") 
+   if(IsObject(eas_flobj(7))) Then EAS_flash=7 
+   Set eas_flobj(8) = CreateObject("ShockwaveFlash.ShockwaveFlash.8") 
+   if(IsObject(eas_flobj(8))) Then EAS_flash=8 
+   Set eas_flobj(9) = CreateObject("ShockwaveFlash.ShockwaveFlash.9") 
+   if(IsObject(eas_flobj(9))) Then EAS_flash=9 
+   Set eas_flobj(10) = CreateObject("ShockwaveFlash.ShockwaveFlash.10") 
+   if(IsObject(eas_flobj(10))) Then EAS_flash=10 
+   </script>
+   <a target="_blank" href="http://eas8.emediate.eu/eas/cu=392::camp=59543::no=72498::kw=link2-72498::encoding=utf-8::sw2=%20Tarup%20-
+   Centret,%20Rugvang%2036-38,%20,%205210%20Odense%20NV::sw=%20Tarup%20Centret,%20Rugvang%2036-38,%20,%205210%20Odense%20NV::cman1=-2-
+   0::cman2=-20::EASLink=http://track.adform.net/C/?bn=479198;C=1"><img width="728" height="90"
+   src="http://track.adform.net/adfserve/?bn=479198;srctype=4;ord=1293136328" border="0"></a>
+
+   <noscript>
+   </noscript>
+   </div>
+   <div id="super-search">
+   <div id="yellow-hits-wrapper" class="clearfix">
+   <div class="header">
+   <h2>
+   <a href="http://firma.eniro.dk/query?what=cs&amp;geo_area=tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Firmas&oslash;g
+   - <span>Vis alle</span></a> <span>(755)</span> 
+   </h2>
+   </div>
+   <div id="yellow-hits" class="two-by-one clearfix">
+   <div id="yellow-results" class="col yellow-box">
+   <ul id="yellow-list-1" class="yellow-list show">
+   <li id="yp1" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>1. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/795485/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">OK &Aring;have Parkvej</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>89 32 22 11</span> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">&Aring;have Parkvej 11</span> <span class="locality">8260 Viby
+   J</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.ok.dk/" target="_blank">www.ok.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp2" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>2. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/350087/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Krak</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 38 38 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/350087/reffering_what/all/company_name/krak/from/web_comp_minfo/geo_area/-
+   tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Sydmarken 44A</span> <span class="locality">2860 S&oslash;borg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.krak.dk/" target="_blank">www.krak.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Krak.dk ejes af Eniro Danmark A/S, som er en af Danmarks f&oslash;rende virksom... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp3" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>3. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/324571/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Spar Nord Aalborg Hovedkontor</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>96 34 40 00</span> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Skelagervej 15</span> <span class="locality">9000 Aalborg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.sparnord.dk/" target="_blank">www.sparnord.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Vi har h&oslash;jt til loftet - og let til smil og godt hum&oslash;r. Gennem lokale fr... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp1" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-2" class="yellow-list show">
+   <li id="yp4" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>4. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1091197/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">T&aelig;t Tag Danmark A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 12 22 10</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1091197/reffering_what/all/company_name/t&aelig;t+tag+danmark+a%252Fs/fro-
+   m/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Paludan-M&uuml;llers...</span> <span class="locality">8200 &Aring;rhus
+   N</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.taettag.dk/" target="_blank">www.taettag.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Vi er specialister i nybygning og renovering af flade tage og h&aelig;ldningst... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp5" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>5. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1065144/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Spies</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 42 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1065144/reffering_what/all/company_name/spies/from/web_comp_minfo/geo_are-
+   a/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Nansensgade 19,...</span> <span class="locality">1366 K&oslash;benhavn
+   K</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.spies.dk/" target="_blank">www.spies.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Med Spies f&aring;r du altid den bedste rejse til den bedste pris. Spies er Da... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp6" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>6. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/660987/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Fad&oslash;lsforsyningen Carlsberg Tuborg</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 60 90</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/660987/reffering_what/all/company_name/fad&oslash;lsforsyningen+carlsberg-
+   +tuborg/from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a>
+
+   </p>
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.fadolsforsyningen.dk/" target="_blank">www.fadolsforsyni...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Landsd&aelig;kkende udlejning af fad&oslash;lsanl&aelig;g til firmaer og private. 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp2" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-3" class="yellow-list show">
+   <li id="yp7" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>7. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/404248/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Trekroner Forsikring</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 03 80</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/404248/reffering_what/all/company_name/trekroner+forsikring/from/web_comp-
+   _minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Gammel Kongevej...</span> <span class="locality">1850 Frederiksb...</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.trekroner.dk/" target="_blank">www.trekroner.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   F&aring; et godt tilbud p&aring; dine forsikringer 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp8" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>8. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1137048/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">NI.dk</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 38 38 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1137048/reffering_what/all/company_name/ni.dk/from/web_comp_minfo/geo_are-
+   a/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Sydmarken 44A</span> <span class="locality">2860 S&oslash;borg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.ni.dk/" target="_blank">www.ni.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Eniro Linkguide er din indgang til den danske del af Internettet. Her fi... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp9" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>9. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1134637/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">SOL.dk</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 38 38 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1134637/reffering_what/all/company_name/sol.dk/from/web_comp_minfo/geo_ar-
+   ea/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Sydmarken 44A</span> <span class="locality">2860 S&oslash;borg</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.sol.dk/" target="_blank">www.sol.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   SOL er din indgang til Internettet. Vi tilbyder gratis webmail, opskrift... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp3" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-4" class="yellow-list show">
+   <li id="yp10" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>10. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/594105/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Bosch Siemens Gaggenau Hvidevareser...</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>44 89 89 85</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/594105/reffering_what/all/company_name/bosch+siemens+gaggenau+hvidevarese-
+   rvice/from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a>
+
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Telegrafvej 4</span> <span class="locality">2750 Ballerup</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.bosch-home.dk/" target="_blank">www.bosch-home.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Online k&oslash;b af reservedele samt bestilling af servicebes&oslash;g kan foretages ... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp11" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>11. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/424507/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Stofa A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>88 30 30 30</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/424507/reffering_what/all/company_name/stofa+a%252Fs/from/web_comp_minfo/-
+   geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Uraniavej 6</span> <span class="locality">8700 Horsens</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.stofa.dk/" target="_blank">www.stofa.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Stofa er Danmarks n&aelig;stst&oslash;rste leverand&oslash;r af kabel-tv og bredb&aring;nd.
+   I sama... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp12" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>12. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/984207/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">St&oslash;vring Autoophug ApS</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>98 37 36 20</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/984207/reffering_what/all/company_name/st&oslash;vring+autoophug+aps/from-
+   /web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Banesvinget 9 -...</span> <span class="locality">9530 St&oslash;vring</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.stoevring-autoophug.dk/" target="_blank">www.stoevring-aut...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   AUTOOPHUGGET I HIMMERLAND - HELE TIDEN I EKSPANSION. HAR VI IKKE DELENE ... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp4" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-5" class="yellow-list show">
+   <li id="yp13" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>13. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1116943/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">JMS Milj&oslash; ApS</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>97 13 63 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1116943/reffering_what/all/company_name/jms+milj&oslash;+aps/from/web_com-
+   p_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Middelfartvej 38</span> <span class="locality">5466 Asperup</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.jms.dk/" target="_blank">www.jms.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Som r&aring;dgivnings- og servicevirksomhed er det JMS Milj&oslash;s (Jydsk Milj&oslash; San...
+
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp14" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>14. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1045745/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">Dansk Varme Service A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 98 10</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1045745/reffering_what/all/company_name/dansk+varme+service+a%252Fs/from/-
+   web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Solvang 40</span> <span class="locality">3450 Aller&oslash;d</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.danskvarmeservice.dk/" target="_blank">www.danskvarmeser...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp15" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>15. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1002156/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">Dansk Autohj&aelig;lp A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 80 90</span> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Tors&oslash;vej 2</span> <span class="locality">8240 Risskov</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.dah.dk/" target="_blank">www.dah.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Dansk Autohj&aelig;lp yder i hele Danmark og Europa. Vores professionelle meda... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp5" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-6" class="yellow-list show">
+   <li id="yp16" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>16. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1150090/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">DCC Energi</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 20 10</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1150090/reffering_what/all/company_name/dcc+energi/from/web_comp_minfo/ge-
+   o_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">N&aelig;rum Hovedgade 8</span> <span class="locality">2850 N&aelig;rum</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.dccenergi.dk/" target="_blank">www.dccenergi.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp17" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>17. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/659005/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Carlsberg Danmark Salg - Detail/Con...</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>33 27 26 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/659005/reffering_what/all/company_name/carlsberg+danmark+salg+-+detail%25-
+   2Fconvenience/from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere
+   info</a> 
+   </p>
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.carlsbergdanmark.dk/" target="_blank">www.carlsbergdanm...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp18" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>18. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/49829/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">Kudsk &amp; Dahl A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>74 54 12 92</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/49829/reffering_what/all/company_name/kudsk+&amp;+dahl+a%252Fs/from/web_c-
+   omp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Vojensvej 7</span> <span class="locality">6500 Vojens</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.kudsk-dahl.dk/" target="_blank">www.kudsk-dahl.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   Pr. 3. marts 2008 blev virksomheden solgt til Unicon A/S, som overtog al... 
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp6" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-7" class="yellow-list show">
+   <li id="yp19" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>19. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/1112969/referring_what/all/from/web_comp_name/geo_area/t-
+   arup+centret,+rugvang+36-38,+,+5210+odense+nv">Carlsberg Danmark Salg - On Trade</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>33 27 10 00</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/1112969/reffering_what/all/company_name/carlsberg+danmark+salg+-+on+trade-
+   /from/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a>
+
+   </p>
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.carlsbergdanmark.dk/" target="_blank">www.carlsbergdanm...</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp20" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>20. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/804532/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">Deloitte</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>36 10 20 30</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/804532/reffering_what/all/company_name/deloitte/from/web_comp_minfo/geo_a-
+   rea/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Weidekampsgade 6</span> <span class="locality">2300 K&oslash;benhavn
+   S</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.deloitte.dk/" target="_blank">www.deloitte.dk</a> 
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   </ul>
+   </li>
+   <li id="yp21" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>21. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/73415/referring_what/all/from/web_comp_name/geo_area/tar-
+   up+centret,+rugvang+36-38,+,+5210+odense+nv">KIBO SYSTEM A/S</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>70 10 70 77</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/73415/reffering_what/all/company_name/kibo+system+a%252Fs/from/web_comp_m-
+   info/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Energivej 1</span> <span class="locality">6933 Kib&aelig;k</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.kibo-system.dk/" target="_blank">www.kibo-system.dk</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   KIBO SYSTEM AS totalleverand&oslash;r af sikringsl&oslash;sninger og leverer s&aring;vel enk...
+
+   </p>
+   </li>
+   </ul>
+   <input type="hidden" id="wcm-request-yp7" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   <ul id="yellow-list-8" class="yellow-list show">
+   <li id="yp22" class="hit first vcard clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>22. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/742683/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">L&aring;separtner BC Fredericia</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>75 92 04 98</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/742683/reffering_what/all/company_name/l&aring;separtner+bc+fredericia/fr-
+   om/web_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">Egeskovvej 145</span> <span class="locality">7000 Fredericia</span>
+
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.laasepartner.dk/" target="_blank">www.laasepartner.dk</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   L&aring;separtner er f&oslash;rende inden for mekanisk og elektronisk sikring til vir... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li id="yp23" class="hit clearfix">
+   <ul class="adr-phone">
+   <li>
+   <h4 class="bold">
+   <span>23. </span><a href="http://firma.eniro.dk/query/what/ip/advert_code/335162/referring_what/all/from/web_comp_name/geo_area/ta-
+   rup+centret,+rugvang+36-38,+,+5210+odense+nv">L&aring;separtner BC Odense</a>
+   </h4>
+   </li>
+   <li class="tel">
+   <p class="basic-tel">
+   <span class="type" title="voice">Tfn.</span> <span>66 10 82 19</span> 
+   </p>
+   <p class="info">
+   <a href="http://firma.eniro.dk/query/what/ip/advert_code/335162/reffering_what/all/company_name/l&aring;separtner+bc+odense/from/w-
+   eb_comp_minfo/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Mere info</a> 
+   </p>
+   </li>
+   <li class="adr">
+   <span class="street-address">&Oslash;stbirkvej 7</span> <span class="locality">5240 Odense
+   N&Oslash;</span> 
+   </li>
+   <li class="links">
+   <ul>
+   <li class="homepage">
+   <a rel="nofollow" href="http://www.laasepartner.dk/" target="_blank">www.laasepartner.dk</a>
+
+   </li>
+   </ul>
+   </li>
+   </ul>
+   <ul class="extended-info">
+   <li class="companyinfo clearfix">
+   <p class="note">
+   L&aring;separtner er f&oslash;rende inden for mekanisk og elektronisk sikring til vir... 
+   </p>
+   </li>
+   </ul>
+   </li>
+   <li class="hit more-hits">
+   <p>
+   Finder du ikke det, du s&oslash;ger?
+   </p>
+   <p>
+   <a href="http://firma.eniro.dk/query/what/cs/from/web_comp_morehits/geo_area/tarup+centret,+rugvang+36-38,+,+5210+odense+nv">Vis
+   alle 755 resultater.</a> 
+   </p>
+   <input type="hidden" id="wcm-request-yp8" value="http://kort.eniro.dk/api/statmap?iwidth=320&amp;iheight=270&amp;cc=18.075,59.315&-
+   amp;zoom=3"> 
+   </li>
+   </ul>
+   </div>
+   <div id="yellow-scrollbar" class="scrollbar begin clearfix">
+   <a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&-
+   amp;what=all#" class="up" title="Se flere resultater"></a><a href="http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Cen-
+   tret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp;what=all#" class="down" title="Se
+   flere resultater"></a>
+   </div>
+   </div>
+   <div id="map-results" class="small-map-box">
+   <div class="boxhead-wrap">
+   <h2>
+   Kort
+   </h2>
+   </div>
+   <div id="map-results-wrapper">
+   <div id="imageholder">
+   <p id="maplinks">
+   <a href="http://kort.eniro.dk/query/what/map/hits_on_map/1/geo_area/Tarup%2BCentret%2C%2BRugvang%2B36-38%2C%2B%2C%2B5210%2BOdense%-
+   2BNV/mop/yp/disable_ka/1">Vis p&aring; stort kort</a> 
+   </p>
+   <div id="mapWrap" style="display: none;">
+   <div id="mapContainer">
+   </div>
+   </div>
+   <div id="large-image">
+   <p>
+   Kort
+   </p>
+   </div>
+   </div>
+   </div>
+   </div>
+   </div>
+   <div id="main-results" class="clearfix">
+   <div class="header">
+   <h2>
+   <a id="web-hits-header" href="http://www.eniro.dk/query?what=web&amp;search_word=Tarup%20Centret%2C%20Rugvang%2036-38%2C%20%2C%205-
+   210%20Odense%20NV">Vis kun Web</a> <span>(36)</span> 
+   </h2>
+   <p class="buy-domain">
+   <!-- "7.1 Eniro.dk WS Res Txt Top 1x1" (section "Eniro.dk WebSearch (WS)") -->
+   <script type="text/javascript" src="http://eas8.emediate.eu/eas?cre=mu;js=y;encoding=utf-8;cat1=DKAREADK;EASInclude=;cat3=;EASIncl-
+   ude2=DKAREADK;cat2=;sw2=DKAREADK;cu=393;sw=;target=_blank">
+   </script>
+   </p>
+   <div class="buy-domain" style="line-height:20px; text-align:right;">
+   <a style="text-decoration:none;" href="http://eas8.emediate.eu/eas/cu=393::camp=30854::no=31255::kw=link1-31255::encoding=utf-8::c-
+   at1=DKAREADK::sw2=DKAREADK::cman1=-20::cman2=-20::EASLink=http://www.one.com/banner/log_click?agency=sol-dk-parallel&amp;locale=da-
+   &amp;keyword=&amp;dns=" target="_blank">Se om dom&aelig;net <strong style="text-decoration:underline;"></strong>er
+   ledigt <img src="http://eas8.emediate.eu/media.8/3/105/30854//one.com-logo.jpg" alt="one.com"
+   align="absmiddle">- hele Danmarks webhotel</a>
+   </div>
+   <noscript>
+   </noscript>
+   <p>
+   </p>
+   </div>
+   <div id="web-result" class="result clearfix">
+   <div class="hits">
+   <div id="splinx-plh-top" class="splinx-container vertical">
+   </div>
+   <h3 class="structural">
+   Generiska tr&auml;ffar
+   </h3>
+   <ul class="web">
+   <li>
+   <h4>
+   <a href="http://openhours.dk/spots/danske-bank-tarup-afdeling-odense-nv-tarup-center-rugvang-36-f3b69a02fd">OH
+   - Danske Bank Tarup Afdeling <b>Odense NV Tarup Center</b>, <b>Rugvang</b> 36 <b>...</b></a>
+   </h4>
+   <p>
+   Tarup Afdeling. Danske Bank Tarup Afdeling. <b>Tarup Center</b>, <b>Rugvang 36- 38 5210</b>
+
+   <br>
+   <b>Odense NV</b>. work 45 12 25 00. 55.40338,10.35504 <b>...</b>
+   </p>
+   <div class="meta">
+   openhours.dk/spots/danske-bank-tarup-afdeling-odense-nv-tarup-... &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.danskebank.dk/da-dk/Kundeservice/Privatkunder/Find-afdeling/Pages/Soegeresultat-paa-afdeling.aspx?branchSearch-
+   =5000,5090,5100,5200,5210,5220,5230,5240,5250,5260,5270,5320,5491&amp;branchType=3&amp;branchSearchType=3&amp;SearchZipCodeOnly=tr-
+   ue">S&oslash;geresultat p&aring; afdeling</a>
+   </h4>
+   <p>
+   Tarup Afdeling, <b>Tarup Center</b>, <b>Rugvang 36-38</b>, <b>5210</b>, <b>Odense NV</b>, 45122500
+   <b>...</b> 
+   <br>
+   <b>Odense</b> Nord Afdeling, N&aelig;sbyhovedvej 1, 5270, <b>Odense N</b>, 45121640 <b>...</b>
+   </p>
+   <div class="meta">
+   www.danskebank.dk/da-dk/Kundeservice/Privatkunder/Find-afdelin... &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.cylex.dk/odense+nv/10/"><b>Odense nv</b> - den tiende side</a>
+   </h4>
+   <p>
+   <b>5210 ODENSE NV</b>, <b>RUGVANG 36-38</b>, <b>TARUP CENTER</b>. Danske Bank, L&aring;n penge,
+   handel med 
+   <br>
+   valuta, aktier og obligationer og f&aring; r&aring;dgivning om penge og privat&oslash;konomi
+   i <b>...</b>
+   </p>
+   <div class="meta">
+   www.cylex.dk/odense+nv/10/ &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.lovbjerg.dk/landkort.asp">Find din lokale L&oslash;vbjerg butik</a>
+   </h4>
+   <p>
+   L&oslash;vbjerg - <b>Odense Tarup Centret</b>, <b>Rugvang 36-38 5210 Odense NV</b> Butikschef:
+   Ulrik 
+   <br>
+   Rasmussen Find butikken p&aring; Krak &Aring;bningstider: <b>...</b>
+   </p>
+   <div class="meta">
+   www.lovbjerg.dk/landkort.asp &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.odense-bolbro-apotek.dk/page/580">Apotekets afdelinger - Bolbro Apotek</a>
+   </h4>
+   <p>
+   Bolbro apotek, Tarup apotek, Korup apoteksudsalg. Middelfartvej 115, 5200 Odense 
+   <br>
+   V. <b>Tarup center</b>, <b>Rugvang 36 - 38</b>, <b>5210 Odense NV</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.odense-bolbro-apotek.dk/page/580 &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.odense.dk/Topmenu/Kommunen/Kontakt%20til%20Kommunen.aspx"><b>Odense</b>
+   Kommune - &Aring;bningstider, adresser og telefonnumre</a>
+   </h4>
+   <p>
+   17. nov 2010 <b>...</b> <b>Odense</b> Slot, indgang G N&oslash;rregade <b>36 - 38</b>. Postboks
+   730 5100 <b>Odense</b> C <b>...</b> Tarup 
+   <br>
+   Bibliotek, <b>Tarup Centret</b>, <b>Rugvang</b> 40, <b>5210 Odense NV</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.odense.dk/Topmenu/Kommunen/Kontakt%20til%20Kommunen.aspx &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.tislet.dk/?id=forhandlere">Tisletten</a>
+   </h4>
+   <p>
+   <b>...</b> Apoteket Rosen, Tuborgvej 269, 2400 K&oslash;benhavn NV, 35 81 75 00; Br&oslash;ndby&oslash;ster
+
+   <br>
+   Apotek, <b>...</b> Tarup Apotek, <b>Tarup center</b>, <b>Rugvang 36 - 38</b>, <b>5210 Odense
+   NV</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.tislet.dk/?id=forhandlere &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.butikmarianne.dk/200-find_os.htm">Find os - Butik Marianne -Bekl&aelig;dning
+   til den moderne kvinde</a>
+   </h4>
+   <p>
+   Butik med bekl&aelig;dning til den moderne kvinde. Beliggende i <b>Odense</b>. <b>...</b> Butik
+
+   <br>
+   Marianne <b>Tarup Center Rugvang 36-38 5210 Odense NV</b>. Tlf.: 66162908 <b>...</b>
+   </p>
+   <div class="meta">
+   www.butikmarianne.dk/200-find_os.htm &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.e-pages.dk/lokalavisennordvest/39/3">Lokalavisen Nordvest - 15-12-2010</a>
+   </h4>
+   <p>
+   15. dec 2010 <b>...</b> Vi regner med, at centeret kan tages i brug senest i be- <b>...</b>
+   l&oslash;rdag den 18. 
+   <br>
+   december 2010 <b>Tarup Centret Rugvang 36-38 5210 Odense NV</b> Tlf. 96 <b>...</b>
+   </p>
+   <div class="meta">
+   www.e-pages.dk/lokalavisennordvest/39/3 &middot; dansk
+   </div>
+   </li>
+   <li>
+   <h4>
+   <a href="http://www.stensbogaard.dk/koeboellet/koeboellet.html">Stensbogaard Bryghus</a>
+   </h4>
+   <p>
+   H.J. Hansen Vinhandel A/S, 5000 Odense, http://www.hjhansen-vin.dk/ <b>...</b> 
+   <br>
+   Hjallesevej 6, 5000 Odense C; L&oslash;vbjerg <b>Tarup Centret</b>, <b>Rugvang 36-38 5210 Odense</b>
+
+   <br>
+   <b>N</b> <b>...</b>
+   </p>
+   <div class="meta">
+   www.stensbogaard.dk/koeboellet/koeboellet.html &middot; dansk
+   </div>
+   </li>
+   </ul>
+   <div id="splinx-plh-bottom" class="splinx-container vertical">
+   </div>
+   </div>
+   </div>
+   <div class="sidebar">
+   <div class="sidebar-unit one-com">
+   <!-- "7.1 Eniro.dk SS Res 313x50" (section "Eniro.dk WebSearch (WS)") -->
+   <script type="text/javascript" src="http://eas8.emediate.eu/eas?cre=mu;js=y;encoding=utf-8;cat1=DKAREADK;EASInclude=;cat3=;EASIncl-
+   ude2=;cat2=;sw2=DKAREADK;cu=1557;sw=;target=_blank">
+   </script>
+   <!-- No matching campaign -->
+   <noscript>
+   </noscript>
+   </div>
+   <div id="splinx-plh-skyscraper" class="splinx-container vertical">
+   </div>
+   </div>
+   <div style="clear:both">
+   <!-- -->
+   </div>
+   <div class="footer">
+   <h4>
+   <a id="web-hits-footer" href="http://www.eniro.dk/query?what=web&amp;search_word=Tarup%20Centret%2C%20Rugvang%2036-38%2C%20%2C%205-
+   210%20Odense%20NV&amp;stq=10">Flere resultater</a>
+   </h4>
+   </div>
+   </div>
+   </div>
+   <div style="display:none">
+   <img src="http://www.eniro.dk/img/sik.gif?customer_id=&amp;exposure_type=&amp;exposure_id=&amp;heading_code=&amp;rank=&amp;order=&-
+   amp;area_code=&amp;stq=0&amp;hpp=25&amp;page_type=web&amp;vhost=http://www.eniro.dk&amp;country=DK&amp;search_word=Tarup
+   Centret, Rugvang 36-38, , 5210 Odense NV&amp;geo_area=Tarup Centret, Rugvang 36-38, , 5210
+   Odense NV&amp;company_name=&amp;phone_number=&amp;street=&amp;zipcode=&amp;area=&amp;dir_area=&amp;geo_code=&amp;test=&amp;generic-
+   =1&amp;hits=755&amp;random=778019" width="0" height="0" alt=""> 
+   </div>
+   <div id="footer">
+   <ul>
+   <li>
+   <a href="http://www.eniro.dk/omeniro" rel="about">Om Eniro</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/annoncer">Annonc&eacute;r</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/" rel="terms"></a>
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/kontaktos" rel="contact">Kontakt os</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.dk/hjaelp" rel="help">Hj&aelig;lp</a> 
+   </li>
+   <li>
+   <a href="http://www.eniro.com/dk">&copy; Eniro Danmark A/S</a> 
+   </li>
+   </ul>
+   <p>
+   &nbsp;
+   </p>
+   <p>
+   &nbsp;
+   </p>
+   </div>
+   <!-- footer -->
+   <!-- Stat Starts -->
+   <script type="text/javascript" src="http://www.eniro.dk/scripts/lib/tmv11.js#V$">
+   </script>
+   <script type="text/javascript">
+   <!--
+   getTMqs('http', '', '', 'eniro_dk', 'dk', 'ISO-8859-15');
+   //-->
+
+   </script>
+   <img name="tmImg1" border="0" height="1" width="1" onload="nxtImg(&quot;tmImg2&quot;, &quot;http&quot;,
+   &quot;http://www.eniro.dk/query?search_word=&amp;geo_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp-
+   ;what=all****false/800x600/32/eniro_dk/dk/ISO-8859-15/1293136322990/&quot;);" src="http://statistik-gallup.net/VC1293136322990"><i-
+   mg name="tmImg2" border="0" height="1" width="1" src="http://statistik-gallup.net/V11http://www.eniro.dk/query?search_word=&amp;ge-
+   o_area=Tarup%20Centret%2C%20Rugvang%2036%2D38%2C%20%2C%205210%20Odense%20NV&amp;what=all****false/800x600/32/eniro_dk/dk/ISO-8859--
+   15/1293136322990/"> 
+   <noscript>
+   </noscript>
+   <!-- (C)2000-2009 Gemius SA - gemiusAudience / eniro.dk / Supersearch incl YP -->
+   <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+   var pp_gemius_identifier = new String('nFtATQQus92A8ftUUsG86JeCLeVIxBtWXjDwk5rpgqn.g7');
+   //--><!]]>
+
+   </script>
+   <script type="text/javascript" src="/gemius/xgemius.js">
+   </script>
+   <!-- Stat Ends -->
+   <script type="text/javascript" src="http://www.eniro.dk/qm-splinx-static/core/scripts/core_all_c.js?2.10.49"
+   charset="iso-8859-1">
+   </script>
+   <script type="text/javascript">
+   var splinxModule = new SplinxModule({
+   searchWord: "",
+   geoArea: "Tarup Centret, Rugvang 36-38, , 5210 Odense NV",
+   pageNumber : "1",
+   google : {
+   adPage : "1",
+   client : "eniro-dk"
+   }
+   });
+   </script>
+   </body>
+   </html>".
+   Error Location: Query Database[1] - Load Page - Test Tag - Extract longitude
+   Error Location Code: {<2>[0].<1>.<3>.<4>}
+
+Message Number: 2, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:28.43
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 3, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:30.43
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 4, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:32.78
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 5, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:34.82
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 6, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:36.99
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 7, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:39.01
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 8, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:42.66
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 9, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:44.47
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 10, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:46.41
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 11, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:48.35
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 12, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:50.16
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 13, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:52.03
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 14, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:55.06
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 15, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:58.13
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Location object to storage.
+
+Message Number: 16, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:33:58.13
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/GeoCodingEniro.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Location summary: Total: 14, ignored: 0.
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<objects>
+  <Location>
+    <streetName>Rotfelds Vej</streetName>
+    <streetBuildingIdentifier>3</streetBuildingIdentifier>
+    <postCodeIdentifier>9460</postCodeIdentifier>
+    <districtName>Brovst</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>57.10042986</latitude>
+    <longitude>9.51911564</longitude>
+  </Location>
+  <Location>
+    <streetName>Bredgade</streetName>
+    <streetBuildingIdentifier>67</streetBuildingIdentifier>
+    <postCodeIdentifier>7600</postCodeIdentifier>
+    <districtName>Struer</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.48227846</latitude>
+    <longitude>8.59078545</longitude>
+  </Location>
+  <Location>
+    <streetName>Rådhus Allé</streetName>
+    <streetBuildingIdentifier>56</streetBuildingIdentifier>
+    <postCodeIdentifier>9900</postCodeIdentifier>
+    <districtName>Frederikshavn</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>57.43812728</latitude>
+    <longitude>10.53255417</longitude>
+  </Location>
+  <Location>
+    <streetName>Fruens Toft</streetName>
+    <streetBuildingIdentifier>11</streetBuildingIdentifier>
+    <postCodeIdentifier>7130</postCodeIdentifier>
+    <districtName>Juelsminde</districtName>
+    <districtSubDivisionIdentifier>Glud</districtSubDivisionIdentifier>
+    <latitude>55.80626484</latitude>
+    <longitude>9.99761829</longitude>
+  </Location>
+  <Location>
+    <streetName>Fjællebrovejen</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>5762</postCodeIdentifier>
+    <districtName>Vester Skerninge</districtName>
+    <districtSubDivisionIdentifier>Ulbølle</districtSubDivisionIdentifier>
+    <latitude>55.07211529</latitude>
+    <longitude>10.42106296</longitude>
+  </Location>
+  <Location>
+    <streetName>L. P. Houmøllers Vej</streetName>
+    <streetBuildingIdentifier>22</streetBuildingIdentifier>
+    <postCodeIdentifier>9900</postCodeIdentifier>
+    <districtName>Frederikshavn</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>57.42516907</latitude>
+    <longitude>10.51122798</longitude>
+  </Location>
+  <Location>
+    <streetName>Erik Schiødtsgade</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>4874</postCodeIdentifier>
+    <districtName>Gedser</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>54.57580611</latitude>
+    <longitude>11.93060514</longitude>
+  </Location>
+  <Location>
+    <streetName>Borupgårdcentret</streetName>
+    <streetBuildingIdentifier>1</streetBuildingIdentifier>
+    <postCodeIdentifier>3070</postCodeIdentifier>
+    <districtName>Snekkersten</districtName>
+    <districtSubDivisionIdentifier>Rørtang</districtSubDivisionIdentifier>
+    <latitude>56.01084475</latitude>
+    <longitude>12.58424043</longitude>
+  </Location>
+  <Location>
+    <streetName>Trojels Gård</streetName>
+    <streetBuildingIdentifier>2</streetBuildingIdentifier>
+    <postCodeIdentifier>4850</postCodeIdentifier>
+    <districtName>Stubbekøbing</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>54.89091178</latitude>
+    <longitude>12.04034866</longitude>
+  </Location>
+  <Location>
+    <streetName>Nygårds Allé</streetName>
+    <streetBuildingIdentifier>3</streetBuildingIdentifier>
+    <postCodeIdentifier>8330</postCodeIdentifier>
+    <districtName>Beder</districtName>
+    <districtSubDivisionIdentifier></districtSubDivisionIdentifier>
+    <latitude>56.05833944</latitude>
+    <longitude>10.20474486</longitude>
+  </Location>
+</objects>

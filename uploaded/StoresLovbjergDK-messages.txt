@@ -1,0 +1,94 @@
+Message Number: 1, Message Type: Robot_Execution_Error_Report, Message Created: 2010-12-23 21:26:27.22
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Error from the Click action. 404 Not Found loading from http://www.lovbjerg.dk/xx
+Additional Information:
+   ERROR REPORT
+   Report created at: Load Page - For Each Tag Path[1] - Click
+   Number of errors: 1
+
+   ERROR #1
+   Error Message: Error from the Click action. 404 Not Found loading from http://www.lovbjerg.dk/xx
+   Error Location: Load Page - For Each Tag Path[1] - Click
+   Error Location Code: {<0>.<1>[0].<2>}
+
+Message Number: 2, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.36
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 3, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.38
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 4, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.4
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 5, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.41
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 6, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.43
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 7, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.45
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 8, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.47
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 9, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.48
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 10, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.5
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 11, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.52
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 12, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.54
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 13, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.55
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 14, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.57
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 15, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.58
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 16, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.6
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Added Store object to storage.
+
+Message Number: 17, Message Type: Object_Handling_Info, Message Created: 2010-12-23 21:26:27.61
+Robot URL: file:/C:/Development/Kapow Mashup Server 6.5/Project/Library/StoresLovbjergDK.robot, Robot Id: (none), Robot Run Id: 0
+Message Text:
+   Store summary: Total: 15, ignored: 0.
+
